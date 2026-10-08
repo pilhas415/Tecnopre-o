@@ -58,7 +58,7 @@ const mediaLibrary={
  'Gaming':['assets/side/gaming.svg'],
  'Eletrodomésticos':['assets/side/tv.svg']
 };
-function productMedia(p){return (p.gallery&&p.gallery.length?p.gallery:mediaLibrary[p.category]||[]).slice(0,4)}
+function productMedia(p){const urls=(p.gallery&&p.gallery.length?p.gallery:(p.image?[p.image]:mediaLibrary[p.category]||[]));return urls.slice(0,4)}
 function mediaImg(url,cls=''){return `<img class="product-real-image ${cls}" src="${url}" alt="Imagem de ${String(window.currentProductName||'produto').replace(/"/g,'&quot;')}" loading="lazy" onerror="this.classList.add('media-failed');this.style.display='none';this.nextElementSibling?.classList.remove('media-fallback-hidden')"><span class="media-fallback media-fallback-hidden">${window.currentProductIcon||'📦'}</span>`}
 function selectProductImage(i){document.querySelectorAll('.gallery-thumb').forEach((x,n)=>x.classList.toggle('active',n===i));const main=document.getElementById('galleryMain');const p=window.currentProduct;if(!main||!p)return;const urls=productMedia(p);main.innerHTML=mediaImg(urls[i]||urls[0]);}
 const stores=[
