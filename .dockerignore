@@ -1,0 +1,4 @@
+backend/data/*.sqlite
+.git
+*.zip
+node_modules

@@ -1,0 +1,11 @@
+{
+  "name": "TecnoPreço",
+  "short_name": "TecnoPreço",
+  "description": "Comparador de preços de tecnologia.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#071326",
+  "theme_color": "#071326",
+  "lang": "pt-PT",
+  "icons": []
+}

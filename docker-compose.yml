@@ -1,0 +1,13 @@
+services:
+  tecnopreco:
+    build: .
+    ports:
+      - "8787:8787"
+    environment:
+      NODE_ENV: production
+      HOST: 0.0.0.0
+      TECNOPRECO_TOKEN_SECRET: ${TECNOPRECO_TOKEN_SECRET}
+    volumes:
+      - tecnopreco-data:/app/backend/data
+volumes:
+  tecnopreco-data:

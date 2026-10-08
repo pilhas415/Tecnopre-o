@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="pt-PT">
+<head>
+<meta name="description" content="TecnoPreço — compara preços de tecnologia em Portugal e encontra as melhores oportunidades em smartphones, computadores, gaming, áudio e acessórios.">
+<meta name="robots" content="index,follow,max-image-preview:large">
+<meta name="author" content="TecnoPreço">
+<meta name="application-version" content="1.0.0">
+<meta name="theme-color" content="#07131f">
+<meta property="og:type" content="website">
+<meta property="og:title" content="TecnoPreço — Comparador de preços de tecnologia">
+<meta property="og:description" content="Compara preços de tecnologia em Portugal e encontra as melhores oportunidades.">
+<meta name="twitter:card" content="summary">
+<link rel="canonical" href="https://www.tecnopreco.pt/">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":"TecnoPreço","url":"https://www.tecnopreco.pt/","description":"Comparador de preços de tecnologia em Portugal","potentialAction":{"@type":"SearchAction","target":"https://www.tecnopreco.pt/?q={search_term_string}","query-input":"required name=search_term_string"}}</script>
+
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>TecnoPreço 1.0 — Comparador de preços de tecnologia</title>
+<link rel="stylesheet" href="styles.css"></style></style><style>
+/* TecnoPreço — correcção visual: maquete em dois ecrãs/telemóveis */
+.app{max-width:900px;margin:0 auto}
+.layout{grid-template-columns:390px 390px;justify-content:center;gap:28px;align-items:start}
+.panel{width:390px;height:780px;min-height:780px;max-height:780px;overflow:auto;position:relative;border:9px solid #07101d;border-radius:46px;padding:20px 16px 28px;background:linear-gradient(145deg,rgba(7,25,49,.97),rgba(5,38,39,.95));box-shadow:0 28px 70px rgba(0,0,0,.48),0 0 0 1px rgba(110,220,255,.20),0 0 34px rgba(0,190,255,.14);scrollbar-width:thin}
+.panel:before{content:"";position:absolute;top:8px;left:50%;transform:translateX(-50%);width:94px;height:20px;border-radius:0 0 14px 14px;background:#05080e;z-index:5;box-shadow:0 1px 0 rgba(255,255,255,.05)}
+.panel:after{content:"";position:absolute;top:14px;left:calc(50% + 30px);width:5px;height:5px;border-radius:50%;background:#16324b;box-shadow:0 0 6px #18d7ff;z-index:6}
+.detail-panel{display:block}
+.top{max-width:820px;margin:0 auto 20px;border-radius:26px}
+.product{grid-template-columns:54px 1fr 28px}
+.pic{width:44px;height:68px;min-height:68px;margin:auto;border-radius:9px;background:linear-gradient(145deg,#0a1a31,#102d46);border:2px solid rgba(120,216,255,.35);box-shadow:inset 0 0 0 2px rgba(255,255,255,.04),0 8px 16px rgba(0,0,0,.25);font-size:20px;position:relative}
+.pic:after{content:"";position:absolute;top:5px;left:50%;transform:translateX(-50%);width:13px;height:3px;border-radius:3px;background:rgba(255,255,255,.22)}
+.product-image{height:210px;min-height:210px;border-radius:30px;background:radial-gradient(circle at 50% 25%,rgba(24,215,255,.22),transparent 38%),linear-gradient(145deg,#071326,#0a2730);border:2px solid rgba(120,216,255,.25);position:relative;overflow:hidden}
+.product-image:before{content:"";width:112px;height:190px;border-radius:25px;position:absolute;left:50%;top:10px;transform:translateX(-50%);background:linear-gradient(145deg,#17283d,#050b13);border:4px solid #27394d;box-shadow:0 18px 30px rgba(0,0,0,.45),inset 0 0 0 2px rgba(255,255,255,.06)}
+.product-image:after{content:"";position:absolute;width:30px;height:5px;border-radius:5px;background:#05080d;left:50%;top:18px;transform:translateX(-50%)}
+.product-image .big-icon{font-size:38px;position:relative;z-index:2;filter:drop-shadow(0 6px 8px rgba(0,0,0,.4));margin-top:4px}
+@media(max-width:850px){.app{max-width:100%}.layout{grid-template-columns:minmax(0,390px);gap:18px}.panel{width:min(390px,calc(100vw - 20px));margin:auto}.detail-panel{display:block}}
+</style></head>
+<body><a class="skip-link" href="#results">Saltar para os resultados</a><div id="tp141Status" class="tp141-status" role="status" aria-live="polite" aria-atomic="true"></div><div class="app">
+<header class="top"><div><div class="logo">Tecno<span>Preço</span> 🏷️</div><div class="tag">Compara. Escolhe. Poupa.</div><div class="tag" style="margin-top:3px;color:#1877f2;font-weight:800">V3 · preparado para lojas e parceiros</div></div><div class="actions"><button class="round" onclick="showAccessibility()" title="Acessibilidade" aria-label="Acessibilidade">Aa</button><button class="round" onclick="showFavs()" title="Favoritos">♡</button><button class="round notification-button" onclick="showNotifications()" title="Notificações">🔔<span id="notificationBadge" class="notification-badge"></span></button><button class="round" onclick="toggleTheme()" title="Modo escuro">◐</button><button class="round" onclick="toggleMenu()" title="Menu">☰</button></div></header>
+<div class="layout">
+<section class="panel"><div class="search"><input id="search" placeholder="Ex.: Samsung até 400 euros" value="Samsung"><button class="btn" onclick="apply()">🔎</button><button class="btn" onclick="clearSearch()" title="Limpar pesquisa" aria-label="Limpar pesquisa">✕</button><button id="voiceBtn" class="btn voice-btn" onclick="startVoiceSearch()" title="Pesquisar por voz" aria-label="Pesquisar por voz">🎙️</button><button class="btn" onclick="shareSearch()" title="Partilhar pesquisa" aria-label="Partilhar pesquisa">↗</button><div id="suggestions" class="suggestions"></div></div>
+<div class="filters"><button id="stockBtn" class="filter active" onclick="toggleStock()">🚚 Stock imediato</button><button id="preferredBtn" class="filter" onclick="togglePreferredOnly()">★ Só lojas preferidas</button><label class="filter">💶 Preço máximo<select id="maxPrice" onchange="apply()"><option value="9999">Sem limite</option><option value="300">300 €</option><option value="400" selected>400 €</option><option value="600">600 €</option><option value="1000">1 000 €</option></select></label><label class="filter">↕️ Ordenar<select id="sort" onchange="apply()"><option value="price">Preço mais baixo</option><option value="high">Preço mais alto</option><option value="popular">Mais vendidos / populares</option><option value="deal">🔥 Oportunidade</option><option value="name">Nome</option></select></label><label class="filter">📂 Categoria<select id="categoryFilter" onchange="apply()"><option value="all">Todas as categorias</option></select></label><label class="filter">🏷️ Marca<select id="brandFilter" onchange="apply()"><option value="all">Todas as marcas</option></select></label><label class="filter">🏪 Loja<select id="storeFilter" onchange="apply()"><option value="all">Todas as lojas</option><option value="Worten">Worten</option><option value="Worten Marketplace">Worten Marketplace</option><option value="Fnac">FNAC</option><option value="PCDIGA">PCDIGA</option><option value="Globaldata">Globaldata</option><option value="Auchan">Auchan</option><option value="Amazon.es">Amazon.es</option><option value="FNAC Marketplace">FNAC Marketplace</option><option value="PCDIGA Marketplace">PCDIGA Marketplace</option></select></label><button class="filter" onclick="clearFilters()">✕ Limpar filtros</button><button class="filter" onclick="showAlerts()">🔔 Alertas</button><button class="filter" onclick="showRadar()">🔥 Radar</button></div>
+<div class="compare-bar" id="compareBar"><span>⚖️ <b>Comparação</b> — selecciona até 3 produtos nos resultados.</span><button onclick="showCompare()">Comparar</button><button onclick="shareComparison()">↗ Partilhar</button></div><div class="section-title">Categorias</div><div class="cats">
+<button class="cat" onclick="category('Telemóveis')">📱<b>Telemóveis</b></button>
+<button class="cat" onclick="category('Portáteis')">💻<b>Portáteis</b></button>
+<button class="cat" onclick="category('Televisões')">📺<b>Televisões</b></button>
+<button class="cat" onclick="category('Consolas')">🎮<b>Consolas</b></button>
+<button class="cat" onclick="category('Smartwatches')">⌚<b>Smartwatches</b></button>
+<button class="cat" onclick="category('Áudio')">🎧<b>Áudio</b></button>
+<button class="cat" onclick="category('Monitores')">🖥️<b>Monitores</b></button>
+<button class="cat" onclick="category('Componentes')">🧩<b>Componentes</b></button>
+</div>
+<div id="homeHighlights" class="home-block"></div>
+<div id="userPanel" class="user-panel"></div>
+<div class="home-block"><div class="home-head"><b>🏷️ Marcas populares</b><span>Explorar por marca</span></div><div class="brand-row"><button class="brand-chip" onclick="brand('Samsung')">Samsung</button><button class="brand-chip" onclick="brand('Xiaomi')">Xiaomi</button><button class="brand-chip" onclick="brand('Apple')">iPhone</button><button class="brand-chip" onclick="brand('Lenovo')">Lenovo</button><button class="brand-chip" onclick="brand('Sony')">Sony</button><button class="brand-chip" onclick="brand('PlayStation')">PlayStation</button></div></div>
+<div id="recentSearches" class="home-block recent-block" style="display:none"><div class="home-head"><b>🕘 Pesquisas recentes</b><button class="recent-clear" onclick="clearRecentSearches()">Limpar</button></div><div id="recentSearchList" class="brand-row"></div></div>
+<div id="recentProducts" class="home-block recent-block" style="display:none"><div class="home-head"><b>👁️ Vistos recentemente</b><button class="recent-clear" onclick="clearRecentProducts()">Limpar</button></div><div id="recentProductList" class="brand-row"></div></div>
+<div class="results-head"><div class="section-title" style="margin:0">Resultados</div><span id="count" class="count"></span></div>
+<div id="updateBar" style="display:flex;align-items:center;justify-content:space-between;gap:10px;margin:10px 0;padding:10px 12px;border:1px solid #e5e7eb;border-radius:12px;background:var(--card,#fff)"><span><b>🔄 Preços</b><small id="lastUpdate" style="display:block;color:#718096">Dados guardados no protótipo</small></span><button class="secondary" onclick="refreshPrices()">Actualizar</button></div><div class="notice" style="margin-top:9px"><div><b id="sourceStatus">Dados reais + demonstração</b>Fontes verificadas</div><div><b id="offerCount">0</b>Ofertas comparáveis</div><div><b>🔗</b>Estrutura de parceiros</div></div><div id="results" class="results"></div></section>
+<section class="panel detail-panel"><div class="detail-top"><b>Detalhe do produto</b></div><div id="detail" class="empty">Selecciona um produto para veres as especificações, lojas e preços.</div></section>
+</div></div>
+<div id="menuOverlay" class="menu-overlay" onclick="if(event.target===this)toggleMenu()">
+  <div class="menu-card">
+    <div class="menu-head"><strong>TecnoPreço</strong><button onclick="toggleMenu()">✕</button></div>
+    <button onclick="goHome();toggleMenu()">🏠 Início</button>
+    <button onclick="showFavs();toggleMenu()">♡ Favoritos</button>
+    <button onclick="showCompare();toggleMenu()">⚖️ Comparar produtos</button>
+    <button onclick="showCompatibility(compareSelected);toggleMenu()">🔗 Ver compatibilidade</button>
+    <button onclick="showAlerts();toggleMenu()">🔔 Alertas de preço <span id="menuAlertCount"></span></button>
+    <button onclick="showAlerts();toggleMenu()">📌 Centro de oportunidades</button>
+    <button onclick="document.getElementById('search').focus();toggleMenu()">🔎 Pesquisar produtos</button>
+    <button onclick="showStores();toggleMenu()">🏪 As minhas lojas</button>
+    <button onclick="showStoreMap();toggleMenu()">🗺️ Mapa de lojas e ofertas</button>
+    <button onclick="radarDeals();toggleMenu()">🔥 Radar de preços</button>
+    <button onclick="showSources();toggleMenu()">🔗 Fontes de preços</button>
+    <button onclick="showDataQuality();toggleMenu()">🧪 Qualidade dos dados</button><button onclick="showIntegrityCenter();toggleMenu()">🧬 Integridade v144</button><button onclick="tp143OpenDiagnostics();toggleMenu()">⚡ Desempenho</button><button onclick="showRecoveryCenter();toggleMenu()">🛡️ Recuperação e dados</button><button onclick="showShareCenter();toggleMenu()">🔗 Partilha inteligente</button><button onclick="showBackendCenter();toggleMenu()">🗄️ Backend v146</button><button onclick="showAdmin();toggleMenu()">🛠️ Painel técnico</button>
+    <button onclick="showStats();toggleMenu()">📊 A minha actividade</button><button onclick="showAbout();toggleMenu()">ℹ️ Sobre o TecnoPreço</button>
+    <button onclick="showShortcuts();toggleMenu()">⌨️ Atalhos</button>
+    <button onclick="showData();toggleMenu()">💾 Os meus dados</button>
+    <div class="menu-sep"></div>
+    <div class="menu-info">TecnoPreço V3<br><small>Compara. Escolhe. Poupa.</small></div>
+  </div>
+</div>
+<div id="toast" class="toast"></div>
+<script>if(location.protocol==="http:"||location.protocol==="https:"){window.__TECNOPRECO_BACKEND_URL__=window.__TECNOPRECO_BACKEND_URL__||location.origin;window.__TECNOPRECO_ENV__=window.__TECNOPRECO_ENV__||"production"}</script><script src="app.js" defer></script>
+<script>if("serviceWorker" in navigator){window.addEventListener("load",()=>navigator.serviceWorker.register("sw.js").catch(()=>{}));}</script><div id="tpReleaseNote" style="position:fixed;left:14px;bottom:14px;z-index:50;padding:9px 12px;border:1px solid rgba(80,230,200,.22);border-radius:14px;background:rgba(6,15,25,.78);backdrop-filter:blur(12px);color:#b9fff0;font-size:11px;box-shadow:0 10px 35px rgba(0,0,0,.25)">TecnoPreço 1.0 · v146 · backend e base de dados · preços demonstrativos até ligação a fontes autorizadas</div>
+<script>try{notificationBadge()}catch(e){}</script></body></html>

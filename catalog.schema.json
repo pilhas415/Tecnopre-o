@@ -1,0 +1,32 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "TecnoPreço Catalog",
+  "type": "object",
+  "required": [
+    "schemaVersion",
+    "catalogVersion",
+    "categories",
+    "brands",
+    "products"
+  ],
+  "properties": {
+    "schemaVersion": {
+      "type": "string"
+    },
+    "catalogVersion": {
+      "type": "string"
+    },
+    "categories": {
+      "type": "array"
+    },
+    "brands": {
+      "type": "array"
+    },
+    "stores": {
+      "type": "array"
+    },
+    "products": {
+      "type": "array"
+    }
+  }
+}

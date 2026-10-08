@@ -1,0 +1,5734 @@
+{
+  "schemaVersion": "1.1",
+  "catalogVersion": "1.1",
+  "generatedAt": "2026-10-07",
+  "currency": "EUR",
+  "locale": "pt-PT",
+  "description": "Catálogo TecnoPreço com especificações adaptadas à categoria.",
+  "categories": [
+    {
+      "id": "consolas",
+      "name": "Consolas",
+      "productCount": 5
+    },
+    {
+      "id": "portateis",
+      "name": "Portáteis",
+      "productCount": 13
+    },
+    {
+      "id": "smartwatches",
+      "name": "Smartwatches",
+      "productCount": 6
+    },
+    {
+      "id": "tablets",
+      "name": "Tablets",
+      "productCount": 8
+    },
+    {
+      "id": "telemoveis",
+      "name": "Telemóveis",
+      "productCount": 34
+    },
+    {
+      "id": "televisoes",
+      "name": "Televisões",
+      "productCount": 6
+    },
+    {
+      "id": "audio",
+      "name": "Áudio",
+      "productCount": 4
+    }
+  ],
+  "brands": [
+    {
+      "id": "asus",
+      "name": "ASUS",
+      "productCount": 2
+    },
+    {
+      "id": "acer",
+      "name": "Acer",
+      "productCount": 2
+    },
+    {
+      "id": "apple",
+      "name": "Apple",
+      "productCount": 16
+    },
+    {
+      "id": "hp",
+      "name": "HP",
+      "productCount": 2
+    },
+    {
+      "id": "hisense",
+      "name": "Hisense",
+      "productCount": 1
+    },
+    {
+      "id": "lg",
+      "name": "LG",
+      "productCount": 2
+    },
+    {
+      "id": "lenovo",
+      "name": "Lenovo",
+      "productCount": 4
+    },
+    {
+      "id": "microsoft",
+      "name": "Microsoft",
+      "productCount": 1
+    },
+    {
+      "id": "nintendo",
+      "name": "Nintendo",
+      "productCount": 1
+    },
+    {
+      "id": "playstation",
+      "name": "PlayStation",
+      "productCount": 3
+    },
+    {
+      "id": "samsung",
+      "name": "Samsung",
+      "productCount": 20
+    },
+    {
+      "id": "sony",
+      "name": "Sony",
+      "productCount": 2
+    },
+    {
+      "id": "tcl",
+      "name": "TCL",
+      "productCount": 1
+    },
+    {
+      "id": "xiaomi",
+      "name": "Xiaomi",
+      "productCount": 19
+    }
+  ],
+  "stores": [
+    {
+      "id": "pcdiga",
+      "name": "PCDIGA",
+      "type": "retailer"
+    },
+    {
+      "id": "worten",
+      "name": "Worten",
+      "type": "retailer"
+    },
+    {
+      "id": "worten-marketplace",
+      "name": "Worten Marketplace",
+      "type": "marketplace"
+    },
+    {
+      "id": "fnac",
+      "name": "FNAC",
+      "type": "retailer"
+    },
+    {
+      "id": "globaldata",
+      "name": "Globaldata",
+      "type": "retailer"
+    },
+    {
+      "id": "auchan",
+      "name": "Auchan",
+      "type": "retailer"
+    },
+    {
+      "id": "amazon-es",
+      "name": "Amazon.es",
+      "type": "marketplace"
+    },
+    {
+      "id": "fnac-marketplace",
+      "name": "FNAC Marketplace",
+      "type": "marketplace"
+    },
+    {
+      "id": "pcdiga-marketplace",
+      "name": "PCDIGA Marketplace",
+      "type": "marketplace"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Samsung Galaxy A56 5G 128 GB",
+      "category": "Telemóveis",
+      "icon": "📱",
+      "spec": [
+        "6,7″ Super AMOLED",
+        "8 GB",
+        "128 GB",
+        "5G",
+        "50 MP + 12 MP + 5 MP",
+        "5 000 mAh"
+      ],
+      "rating": "4,5",
+      "offers": [
+        {
+          "store": "Worten Marketplace",
+          "price": 328,
+          "stock": true,
+          "delivery": "Disponível",
+          "url": "https://www.worten.pt/produtos/smartphone-samsung-galaxy-a56-5g-6-7-8-gb-128-gb-preto-8368753",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "Worten Marketplace",
+          "price": 330.88,
+          "stock": true,
+          "delivery": "Disponível",
+          "url": "https://www.worten.pt/produtos/smartphone-samsung-galaxy-a56-5g-6-7-dual-sim-8gb-128gb-preto-mrkean-8806095982878",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        }
+      ],
+      "brand": "Samsung",
+      "slug": "1-samsung-galaxy-a56-5g-128-gb",
+      "image": null,
+      "imageAlt": "Samsung Galaxy A56 5G 128 GB",
+      "active": true,
+      "specifications": {
+        "Ecrã": "6,7″ Super AMOLED",
+        "RAM": "8 GB",
+        "Armazenamento": "128 GB",
+        "Rede": "5G",
+        "Câmara": "50 MP + 12 MP + 5 MP",
+        "Bateria": "5 000 mAh"
+      },
+      "specLabels": [
+        "Ecrã",
+        "RAM",
+        "Armazenamento",
+        "Rede",
+        "Câmara",
+        "Bateria"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Samsung Galaxy A36 5G 128 GB",
+      "category": "Telemóveis",
+      "icon": "📱",
+      "spec": [
+        "6,5″ FHD+",
+        "6 GB",
+        "128 GB",
+        "5G",
+        "50 MP + 8 MP + 5 MP",
+        "5 000 mAh"
+      ],
+      "rating": "4,4",
+      "offers": [
+        {
+          "store": "Worten Marketplace",
+          "price": 299.99,
+          "stock": true,
+          "delivery": "Disponível",
+          "url": "https://www.worten.pt/produtos/galaxy-a36-5g-6gb-128gb-branco-dual-sim-sm-a366-samsung-awesome-white-mrkean-8806095984261",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "Worten Marketplace",
+          "price": 308.52,
+          "stock": true,
+          "delivery": "Disponível",
+          "url": "https://www.worten.pt/produtos/galaxy-a36-5g-6gb-128gb-preto-dual-sim-sm-a366-samsung-awesome-black-mrkean-8806095984087",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        }
+      ],
+      "brand": "Samsung",
+      "slug": "2-samsung-galaxy-a36-5g-128-gb",
+      "image": null,
+      "imageAlt": "Samsung Galaxy A36 5G 128 GB",
+      "active": true,
+      "specifications": {
+        "Ecrã": "6,5″ FHD+",
+        "RAM": "6 GB",
+        "Armazenamento": "128 GB",
+        "Rede": "5G",
+        "Câmara": "50 MP + 8 MP + 5 MP",
+        "Bateria": "5 000 mAh"
+      },
+      "specLabels": [
+        "Ecrã",
+        "RAM",
+        "Armazenamento",
+        "Rede",
+        "Câmara",
+        "Bateria"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Samsung Galaxy S24 FE 256 GB",
+      "category": "Telemóveis",
+      "icon": "📱",
+      "spec": [
+        "6,7″ Dynamic AMOLED",
+        "8 GB",
+        "256 GB",
+        "5G",
+        "50 MP + 12 MP + 8 MP",
+        "4 700 mAh"
+      ],
+      "rating": "4,6",
+      "offers": [
+        {
+          "store": "Worten",
+          "price": 555.77,
+          "stock": true,
+          "delivery": "Disponível",
+          "url": "https://www.worten.pt/produtos/smartphone-samsung-galaxy-s24-fe-6-7-8-gb-256-gb-grafite-8164354",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "Worten Marketplace",
+          "price": 552.47,
+          "stock": true,
+          "delivery": "Disponível",
+          "url": "https://www.worten.pt/produtos/smartphone-samsung-galaxy-s24-fe-outlet-caixa-aberta-6-7-8-gb-256-gb-grafite-8204796",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        }
+      ],
+      "brand": "Samsung",
+      "slug": "3-samsung-galaxy-s24-fe-256-gb",
+      "image": null,
+      "imageAlt": "Samsung Galaxy S24 FE 256 GB",
+      "active": true,
+      "specifications": {
+        "Ecrã": "6,7″ Dynamic AMOLED",
+        "RAM": "8 GB",
+        "Armazenamento": "256 GB",
+        "Rede": "5G",
+        "Câmara": "50 MP + 12 MP + 8 MP",
+        "Bateria": "4 700 mAh"
+      },
+      "specLabels": [
+        "Ecrã",
+        "RAM",
+        "Armazenamento",
+        "Rede",
+        "Câmara",
+        "Bateria"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Samsung Galaxy S24 FE 128 GB",
+      "category": "Telemóveis",
+      "icon": "📱",
+      "spec": [
+        "6,7″ Dynamic AMOLED",
+        "8 GB",
+        "128 GB",
+        "5G",
+        "50 MP + 12 MP + 8 MP",
+        "4 700 mAh"
+      ],
+      "rating": "4,6",
+      "offers": [
+        {
+          "store": "Worten Marketplace",
+          "price": 812.97,
+          "stock": true,
+          "delivery": "Disponível",
+          "url": "https://www.worten.pt/produtos/smartphone-samsung-galaxy-s24-fe-6-7-8-gb-128-gb-grafite-8166466",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        }
+      ],
+      "brand": "Samsung",
+      "slug": "4-samsung-galaxy-s24-fe-128-gb",
+      "image": null,
+      "imageAlt": "Samsung Galaxy S24 FE 128 GB",
+      "active": true,
+      "specifications": {
+        "Ecrã": "6,7″ Dynamic AMOLED",
+        "RAM": "8 GB",
+        "Armazenamento": "128 GB",
+        "Rede": "5G",
+        "Câmara": "50 MP + 12 MP + 8 MP",
+        "Bateria": "4 700 mAh"
+      },
+      "specLabels": [
+        "Ecrã",
+        "RAM",
+        "Armazenamento",
+        "Rede",
+        "Câmara",
+        "Bateria"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Lenovo IdeaPad Slim 3",
+      "category": "Portáteis",
+      "icon": "💻",
+      "spec": [
+        "15,6″ Full HD",
+        "16 GB",
+        "512 GB SSD",
+        "Ryzen 5",
+        "Radeon Graphics",
+        "47 Wh"
+      ],
+      "rating": "4,4",
+      "offers": [
+        {
+          "store": "PCDIGA",
+          "price": 479.9,
+          "stock": true,
+          "delivery": "1–2 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "Globaldata",
+          "price": 489.9,
+          "stock": true,
+          "delivery": "2–4 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "FNAC",
+          "price": 499.99,
+          "stock": true,
+          "delivery": "2–4 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        }
+      ],
+      "brand": "Lenovo",
+      "slug": "5-lenovo-ideapad-slim-3",
+      "image": null,
+      "imageAlt": "Lenovo IdeaPad Slim 3",
+      "active": true,
+      "specifications": {
+        "Ecrã": "15,6″ Full HD",
+        "RAM": "16 GB",
+        "Armazenamento": "512 GB SSD",
+        "Processador": "Ryzen 5",
+        "Gráficos": "Radeon Graphics",
+        "Bateria": "47 Wh"
+      },
+      "specLabels": [
+        "Ecrã",
+        "RAM",
+        "Armazenamento",
+        "Processador",
+        "Gráficos",
+        "Bateria"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Xiaomi Watch 2",
+      "category": "Smartwatches",
+      "icon": "⌚",
+      "spec": [
+        "1,43″ AMOLED",
+        "2 GB",
+        "32 GB",
+        "GPS",
+        "Wear OS",
+        "495 mAh"
+      ],
+      "rating": "4,5",
+      "offers": [
+        {
+          "store": "Globaldata",
+          "price": 169.9,
+          "stock": true,
+          "delivery": "2–4 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "Worten",
+          "price": 179.9,
+          "stock": true,
+          "delivery": "2–3 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "FNAC",
+          "price": 184.99,
+          "stock": true,
+          "delivery": "2–4 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        }
+      ],
+      "brand": "Xiaomi",
+      "slug": "6-xiaomi-watch-2",
+      "image": null,
+      "imageAlt": "Xiaomi Watch 2",
+      "active": true,
+      "specifications": {
+        "Ecrã": "1,43″ AMOLED",
+        "RAM": "2 GB",
+        "Armazenamento": "32 GB",
+        "GPS": "GPS",
+        "Sistema": "Wear OS",
+        "Bateria": "495 mAh"
+      },
+      "specLabels": [
+        "Ecrã",
+        "RAM",
+        "Armazenamento",
+        "GPS",
+        "Sistema",
+        "Bateria"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Sony WH-1000XM5",
+      "category": "Áudio",
+      "icon": "🎧",
+      "spec": [
+        "ANC",
+        "30 h",
+        "Bluetooth 5.2",
+        "Microfones",
+        "USB-C",
+        "Multiponto"
+      ],
+      "rating": "4,7",
+      "offers": [
+        {
+          "store": "Worten",
+          "price": 289,
+          "stock": true,
+          "delivery": "2–3 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "FNAC",
+          "price": 299.9,
+          "stock": true,
+          "delivery": "2–4 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "PCDIGA",
+          "price": 294.9,
+          "stock": true,
+          "delivery": "1–2 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        }
+      ],
+      "brand": "Sony",
+      "slug": "7-sony-wh-1000xm5",
+      "image": null,
+      "imageAlt": "Sony WH-1000XM5",
+      "active": true,
+      "specifications": {
+        "Tecnologia": "ANC",
+        "Autonomia": "30 h",
+        "Bluetooth": "Bluetooth 5.2",
+        "Microfones": "Microfones",
+        "Ligação": "USB-C",
+        "Multiponto": "Multiponto"
+      },
+      "specLabels": [
+        "Tecnologia",
+        "Autonomia",
+        "Bluetooth",
+        "Microfones",
+        "Ligação",
+        "Multiponto"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "PlayStation 5 Slim",
+      "category": "Consolas",
+      "icon": "🎮",
+      "spec": [
+        "4K",
+        "1 TB",
+        "SSD",
+        "120 Hz",
+        "Ray Tracing",
+        "Wi‑Fi"
+      ],
+      "rating": "4,8",
+      "offers": [
+        {
+          "store": "Auchan",
+          "price": 499.99,
+          "stock": true,
+          "delivery": "2–4 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "Worten",
+          "price": 509.99,
+          "stock": true,
+          "delivery": "2–3 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "FNAC",
+          "price": 519.99,
+          "stock": true,
+          "delivery": "2–4 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        }
+      ],
+      "brand": "PlayStation",
+      "slug": "8-playstation-5-slim",
+      "image": null,
+      "imageAlt": "PlayStation 5 Slim",
+      "active": true,
+      "specifications": {
+        "Resolução": "4K",
+        "Armazenamento": "SSD",
+        "Taxa de actualização": "120 Hz",
+        "Gráficos": "Ray Tracing",
+        "Conectividade": "Wi‑Fi"
+      },
+      "specLabels": [
+        "Resolução",
+        "Armazenamento",
+        "Armazenamento",
+        "Taxa de actualização",
+        "Gráficos",
+        "Conectividade"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Xiaomi Redmi Note 14 5G 6/128 GB",
+      "category": "Telemóveis",
+      "icon": "📱",
+      "spec": [
+        "6,67″ AMOLED 120 Hz",
+        "6 GB",
+        "128 GB",
+        "5G",
+        "108 MP + 8 MP + 2 MP",
+        "5 110 mAh"
+      ],
+      "rating": "4,5",
+      "offers": [
+        {
+          "store": "Globaldata",
+          "price": 208.9,
+          "stock": true,
+          "delivery": "3–5 dias úteis",
+          "type": "retailer",
+          "url": "https://www.globaldata.pt/smartphone-xiaomi-redmi-note-14-5g-6.67-6-128gb-120hz-roxo/MZB0IO3EU.html",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        }
+      ],
+      "brand": "Xiaomi",
+      "slug": "9-xiaomi-redmi-note-14-5g-6-128-gb",
+      "image": null,
+      "imageAlt": "Xiaomi Redmi Note 14 5G 6/128 GB",
+      "active": true,
+      "specifications": {
+        "Ecrã": "6,67″ AMOLED 120 Hz",
+        "RAM": "6 GB",
+        "Armazenamento": "128 GB",
+        "Rede": "5G",
+        "Câmara": "108 MP + 8 MP + 2 MP",
+        "Bateria": "5 110 mAh"
+      },
+      "specLabels": [
+        "Ecrã",
+        "RAM",
+        "Armazenamento",
+        "Rede",
+        "Câmara",
+        "Bateria"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Xiaomi Redmi Note 14 Pro 5G 8/256 GB",
+      "category": "Telemóveis",
+      "icon": "📱",
+      "spec": [
+        "6,67″ AMOLED 120 Hz",
+        "8 GB",
+        "256 GB",
+        "5G",
+        "200 MP + 8 MP + 2 MP",
+        "5 110 mAh"
+      ],
+      "rating": "4,6",
+      "offers": [
+        {
+          "store": "Globaldata",
+          "price": 286.9,
+          "stock": true,
+          "delivery": "3–5 dias úteis",
+          "type": "retailer",
+          "url": "https://www.globaldata.pt/smartphone-xiaomi-redmi-note-14-pro-5g-6.67-8-256gb-120hz-verde/MZB0IMOEU.html",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "Worten Marketplace",
+          "price": 369.99,
+          "stock": true,
+          "delivery": "Disponível",
+          "type": "marketplace",
+          "url": "https://www.worten.pt/produtos/smartphone-xiaomi-redmi-note-14-pro-5g-6-67-8-gb-256-gb-preto-8252255",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        }
+      ],
+      "brand": "Xiaomi",
+      "slug": "10-xiaomi-redmi-note-14-pro-5g-8-256-gb",
+      "image": null,
+      "imageAlt": "Xiaomi Redmi Note 14 Pro 5G 8/256 GB",
+      "active": true,
+      "specifications": {
+        "Ecrã": "6,67″ AMOLED 120 Hz",
+        "RAM": "8 GB",
+        "Armazenamento": "256 GB",
+        "Rede": "5G",
+        "Câmara": "200 MP + 8 MP + 2 MP",
+        "Bateria": "5 110 mAh"
+      },
+      "specLabels": [
+        "Ecrã",
+        "RAM",
+        "Armazenamento",
+        "Rede",
+        "Câmara",
+        "Bateria"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Xiaomi POCO X7 Pro 5G 12/512 GB",
+      "category": "Telemóveis",
+      "icon": "📱",
+      "spec": [
+        "6,67″ AMOLED 120 Hz",
+        "12 GB",
+        "512 GB",
+        "5G",
+        "50 MP + 8 MP",
+        "6 000 mAh"
+      ],
+      "rating": "4,6",
+      "offers": [
+        {
+          "store": "Globaldata",
+          "price": 379.9,
+          "stock": true,
+          "delivery": "3–5 dias úteis",
+          "type": "retailer",
+          "url": "https://www.globaldata.pt/MZB0J2DEU.html",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        }
+      ],
+      "brand": "Xiaomi",
+      "slug": "11-xiaomi-poco-x7-pro-5g-12-512-gb",
+      "image": null,
+      "imageAlt": "Xiaomi POCO X7 Pro 5G 12/512 GB",
+      "active": true,
+      "specifications": {
+        "Ecrã": "6,67″ AMOLED 120 Hz",
+        "RAM": "12 GB",
+        "Armazenamento": "512 GB",
+        "Rede": "5G",
+        "Câmara": "50 MP + 8 MP",
+        "Bateria": "6 000 mAh"
+      },
+      "specLabels": [
+        "Ecrã",
+        "RAM",
+        "Armazenamento",
+        "Rede",
+        "Câmara",
+        "Bateria"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Xiaomi Redmi Note 14 4G 8/256 GB",
+      "category": "Telemóveis",
+      "icon": "📱",
+      "spec": [
+        "6,67″ AMOLED 120 Hz",
+        "8 GB",
+        "256 GB",
+        "4G",
+        "108 MP",
+        "5 500 mAh"
+      ],
+      "rating": "4,5",
+      "popularity": 72,
+      "offers": [
+        {
+          "store": "Worten",
+          "price": 159.99,
+          "stock": true,
+          "delivery": "1–2 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "FNAC",
+          "price": 165.59,
+          "stock": true,
+          "delivery": "2–3 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "PCDIGA",
+          "price": 169.59,
+          "stock": true,
+          "delivery": "2–4 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        }
+      ],
+      "brand": "Xiaomi",
+      "slug": "12-xiaomi-redmi-note-14-4g-8-256-gb",
+      "image": null,
+      "imageAlt": "Xiaomi Redmi Note 14 4G 8/256 GB",
+      "active": true,
+      "specifications": {
+        "Ecrã": "6,67″ AMOLED 120 Hz",
+        "RAM": "8 GB",
+        "Armazenamento": "256 GB",
+        "Rede": "4G",
+        "Câmara": "108 MP",
+        "Bateria": "5 500 mAh"
+      },
+      "specLabels": [
+        "Ecrã",
+        "RAM",
+        "Armazenamento",
+        "Rede",
+        "Câmara",
+        "Bateria"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Xiaomi Redmi Note 14 5G 8/256 GB",
+      "category": "Telemóveis",
+      "icon": "📱",
+      "spec": [
+        "6,67″ AMOLED 120 Hz",
+        "8 GB",
+        "256 GB",
+        "5G",
+        "108 MP",
+        "5 110 mAh"
+      ],
+      "rating": "4,5",
+      "popularity": 86,
+      "offers": [
+        {
+          "store": "Worten",
+          "price": 219.99,
+          "stock": true,
+          "delivery": "1–2 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "FNAC",
+          "price": 227.69,
+          "stock": true,
+          "delivery": "2–3 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "PCDIGA",
+          "price": 233.19,
+          "stock": true,
+          "delivery": "2–4 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        }
+      ],
+      "brand": "Xiaomi",
+      "slug": "13-xiaomi-redmi-note-14-5g-8-256-gb",
+      "image": null,
+      "imageAlt": "Xiaomi Redmi Note 14 5G 8/256 GB",
+      "active": true,
+      "specifications": {
+        "Ecrã": "6,67″ AMOLED 120 Hz",
+        "RAM": "8 GB",
+        "Armazenamento": "256 GB",
+        "Rede": "5G",
+        "Câmara": "108 MP",
+        "Bateria": "5 110 mAh"
+      },
+      "specLabels": [
+        "Ecrã",
+        "RAM",
+        "Armazenamento",
+        "Rede",
+        "Câmara",
+        "Bateria"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Xiaomi Redmi Note 14 Pro 4G 8/256 GB",
+      "category": "Telemóveis",
+      "icon": "📱",
+      "spec": [
+        "6,67″ AMOLED 120 Hz",
+        "8 GB",
+        "256 GB",
+        "4G",
+        "200 MP",
+        "5 500 mAh"
+      ],
+      "rating": "4,5",
+      "popularity": 78,
+      "offers": [
+        {
+          "store": "Worten",
+          "price": 239.99,
+          "stock": true,
+          "delivery": "1–2 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "FNAC",
+          "price": 248.39,
+          "stock": true,
+          "delivery": "2–3 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "PCDIGA",
+          "price": 254.39,
+          "stock": true,
+          "delivery": "2–4 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        }
+      ],
+      "brand": "Xiaomi",
+      "slug": "14-xiaomi-redmi-note-14-pro-4g-8-256-gb",
+      "image": null,
+      "imageAlt": "Xiaomi Redmi Note 14 Pro 4G 8/256 GB",
+      "active": true,
+      "specifications": {
+        "Ecrã": "6,67″ AMOLED 120 Hz",
+        "RAM": "8 GB",
+        "Armazenamento": "256 GB",
+        "Rede": "4G",
+        "Câmara": "200 MP",
+        "Bateria": "5 500 mAh"
+      },
+      "specLabels": [
+        "Ecrã",
+        "RAM",
+        "Armazenamento",
+        "Rede",
+        "Câmara",
+        "Bateria"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Xiaomi Redmi Note 14 Pro+ 5G 8/256 GB",
+      "category": "Telemóveis",
+      "icon": "📱",
+      "spec": [
+        "6,67″ AMOLED 120 Hz",
+        "8 GB",
+        "256 GB",
+        "5G",
+        "200 MP",
+        "5 110 mAh"
+      ],
+      "rating": "4,5",
+      "popularity": 91,
+      "offers": [
+        {
+          "store": "Worten",
+          "price": 329.99,
+          "stock": true,
+          "delivery": "1–2 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "FNAC",
+          "price": 341.54,
+          "stock": true,
+          "delivery": "2–3 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "PCDIGA",
+          "price": 349.79,
+          "stock": true,
+          "delivery": "2–4 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        }
+      ],
+      "brand": "Xiaomi",
+      "slug": "15-xiaomi-redmi-note-14-pro-5g-8-256-gb",
+      "image": null,
+      "imageAlt": "Xiaomi Redmi Note 14 Pro+ 5G 8/256 GB",
+      "active": true,
+      "specifications": {
+        "Ecrã": "6,67″ AMOLED 120 Hz",
+        "RAM": "8 GB",
+        "Armazenamento": "256 GB",
+        "Rede": "5G",
+        "Câmara": "200 MP",
+        "Bateria": "5 110 mAh"
+      },
+      "specLabels": [
+        "Ecrã",
+        "RAM",
+        "Armazenamento",
+        "Rede",
+        "Câmara",
+        "Bateria"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Xiaomi Redmi Note 14 Pro+ 5G 12/512 GB",
+      "category": "Telemóveis",
+      "icon": "📱",
+      "spec": [
+        "6,67″ AMOLED 120 Hz",
+        "12 GB",
+        "512 GB",
+        "5G",
+        "200 MP",
+        "5 110 mAh"
+      ],
+      "rating": "4,5",
+      "popularity": 83,
+      "offers": [
+        {
+          "store": "Worten",
+          "price": 379.99,
+          "stock": true,
+          "delivery": "1–2 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "FNAC",
+          "price": 393.29,
+          "stock": true,
+          "delivery": "2–3 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "PCDIGA",
+          "price": 402.79,
+          "stock": true,
+          "delivery": "2–4 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        }
+      ],
+      "brand": "Xiaomi",
+      "slug": "16-xiaomi-redmi-note-14-pro-5g-12-512-gb",
+      "image": null,
+      "imageAlt": "Xiaomi Redmi Note 14 Pro+ 5G 12/512 GB",
+      "active": true,
+      "specifications": {
+        "Ecrã": "6,67″ AMOLED 120 Hz",
+        "RAM": "12 GB",
+        "Armazenamento": "512 GB",
+        "Rede": "5G",
+        "Câmara": "200 MP",
+        "Bateria": "5 110 mAh"
+      },
+      "specLabels": [
+        "Ecrã",
+        "RAM",
+        "Armazenamento",
+        "Rede",
+        "Câmara",
+        "Bateria"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Xiaomi POCO X7 5G 8/256 GB",
+      "category": "Telemóveis",
+      "icon": "📱",
+      "spec": [
+        "6,67″ AMOLED 120 Hz",
+        "8 GB",
+        "256 GB",
+        "5G",
+        "50 MP",
+        "5 110 mAh"
+      ],
+      "rating": "4,5",
+      "popularity": 89,
+      "offers": [
+        {
+          "store": "Worten",
+          "price": 279.99,
+          "stock": true,
+          "delivery": "1–2 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "FNAC",
+          "price": 289.79,
+          "stock": true,
+          "delivery": "2–3 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "PCDIGA",
+          "price": 296.79,
+          "stock": true,
+          "delivery": "2–4 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        }
+      ],
+      "brand": "Xiaomi",
+      "slug": "17-xiaomi-poco-x7-5g-8-256-gb",
+      "image": null,
+      "imageAlt": "Xiaomi POCO X7 5G 8/256 GB",
+      "active": true,
+      "specifications": {
+        "Ecrã": "6,67″ AMOLED 120 Hz",
+        "RAM": "8 GB",
+        "Armazenamento": "256 GB",
+        "Rede": "5G",
+        "Câmara": "50 MP",
+        "Bateria": "5 110 mAh"
+      },
+      "specLabels": [
+        "Ecrã",
+        "RAM",
+        "Armazenamento",
+        "Rede",
+        "Câmara",
+        "Bateria"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Xiaomi POCO X7 Pro 5G 8/256 GB",
+      "category": "Telemóveis",
+      "icon": "📱",
+      "spec": [
+        "6,67″ AMOLED 120 Hz",
+        "8 GB",
+        "256 GB",
+        "5G",
+        "50 MP",
+        "6 000 mAh"
+      ],
+      "rating": "4,5",
+      "popularity": 95,
+      "offers": [
+        {
+          "store": "Worten",
+          "price": 329.99,
+          "stock": true,
+          "delivery": "1–2 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "FNAC",
+          "price": 341.54,
+          "stock": true,
+          "delivery": "2–3 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "PCDIGA",
+          "price": 349.79,
+          "stock": true,
+          "delivery": "2–4 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        }
+      ],
+      "brand": "Xiaomi",
+      "slug": "18-xiaomi-poco-x7-pro-5g-8-256-gb",
+      "image": null,
+      "imageAlt": "Xiaomi POCO X7 Pro 5G 8/256 GB",
+      "active": true,
+      "specifications": {
+        "Ecrã": "6,67″ AMOLED 120 Hz",
+        "RAM": "8 GB",
+        "Armazenamento": "256 GB",
+        "Rede": "5G",
+        "Câmara": "50 MP",
+        "Bateria": "6 000 mAh"
+      },
+      "specLabels": [
+        "Ecrã",
+        "RAM",
+        "Armazenamento",
+        "Rede",
+        "Câmara",
+        "Bateria"
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Xiaomi POCO F6 5G 12/512 GB",
+      "category": "Telemóveis",
+      "icon": "📱",
+      "spec": [
+        "6,67″ AMOLED 120 Hz",
+        "12 GB",
+        "512 GB",
+        "5G",
+        "50 MP",
+        "5 000 mAh"
+      ],
+      "rating": "4,5",
+      "popularity": 88,
+      "offers": [
+        {
+          "store": "Worten",
+          "price": 389.99,
+          "stock": true,
+          "delivery": "1–2 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "FNAC",
+          "price": 403.64,
+          "stock": true,
+          "delivery": "2–3 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "PCDIGA",
+          "price": 413.39,
+          "stock": true,
+          "delivery": "2–4 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        }
+      ],
+      "brand": "Xiaomi",
+      "slug": "19-xiaomi-poco-f6-5g-12-512-gb",
+      "image": null,
+      "imageAlt": "Xiaomi POCO F6 5G 12/512 GB",
+      "active": true,
+      "specifications": {
+        "Ecrã": "6,67″ AMOLED 120 Hz",
+        "RAM": "12 GB",
+        "Armazenamento": "512 GB",
+        "Rede": "5G",
+        "Câmara": "50 MP",
+        "Bateria": "5 000 mAh"
+      },
+      "specLabels": [
+        "Ecrã",
+        "RAM",
+        "Armazenamento",
+        "Rede",
+        "Câmara",
+        "Bateria"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Xiaomi 14T 5G 12/256 GB",
+      "category": "Telemóveis",
+      "icon": "📱",
+      "spec": [
+        "6,67″ AMOLED 144 Hz",
+        "12 GB",
+        "256 GB",
+        "5G",
+        "50 MP Leica",
+        "5 000 mAh"
+      ],
+      "rating": "4,5",
+      "popularity": 80,
+      "offers": [
+        {
+          "store": "Worten",
+          "price": 449.99,
+          "stock": true,
+          "delivery": "1–2 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "FNAC",
+          "price": 465.74,
+          "stock": true,
+          "delivery": "2–3 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "PCDIGA",
+          "price": 476.99,
+          "stock": true,
+          "delivery": "2–4 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        }
+      ],
+      "brand": "Xiaomi",
+      "slug": "20-xiaomi-14t-5g-12-256-gb",
+      "image": null,
+      "imageAlt": "Xiaomi 14T 5G 12/256 GB",
+      "active": true,
+      "specifications": {
+        "Ecrã": "6,67″ AMOLED 144 Hz",
+        "RAM": "12 GB",
+        "Armazenamento": "256 GB",
+        "Rede": "5G",
+        "Câmara": "50 MP Leica",
+        "Bateria": "5 000 mAh"
+      },
+      "specLabels": [
+        "Ecrã",
+        "RAM",
+        "Armazenamento",
+        "Rede",
+        "Câmara",
+        "Bateria"
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Xiaomi 14T Pro 5G 12/512 GB",
+      "category": "Telemóveis",
+      "icon": "📱",
+      "spec": [
+        "6,67″ AMOLED 144 Hz",
+        "12 GB",
+        "512 GB",
+        "5G",
+        "50 MP Leica",
+        "5 000 mAh"
+      ],
+      "rating": "4,5",
+      "popularity": 76,
+      "offers": [
+        {
+          "store": "Worten",
+          "price": 599.99,
+          "stock": true,
+          "delivery": "1–2 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "FNAC",
+          "price": 620.99,
+          "stock": true,
+          "delivery": "2–3 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "PCDIGA",
+          "price": 635.99,
+          "stock": true,
+          "delivery": "2–4 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        }
+      ],
+      "brand": "Xiaomi",
+      "slug": "21-xiaomi-14t-pro-5g-12-512-gb",
+      "image": null,
+      "imageAlt": "Xiaomi 14T Pro 5G 12/512 GB",
+      "active": true,
+      "specifications": {
+        "Ecrã": "6,67″ AMOLED 144 Hz",
+        "RAM": "12 GB",
+        "Armazenamento": "512 GB",
+        "Rede": "5G",
+        "Câmara": "50 MP Leica",
+        "Bateria": "5 000 mAh"
+      },
+      "specLabels": [
+        "Ecrã",
+        "RAM",
+        "Armazenamento",
+        "Rede",
+        "Câmara",
+        "Bateria"
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Xiaomi 15 5G 12/256 GB",
+      "category": "Telemóveis",
+      "icon": "📱",
+      "spec": [
+        "6,36″ AMOLED 120 Hz",
+        "12 GB",
+        "256 GB",
+        "5G",
+        "50 MP Leica",
+        "5 240 mAh"
+      ],
+      "rating": "4,5",
+      "popularity": 70,
+      "offers": [
+        {
+          "store": "Worten",
+          "price": 799.99,
+          "stock": true,
+          "delivery": "1–2 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "FNAC",
+          "price": 827.99,
+          "stock": true,
+          "delivery": "2–3 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "PCDIGA",
+          "price": 847.99,
+          "stock": true,
+          "delivery": "2–4 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        }
+      ],
+      "brand": "Xiaomi",
+      "slug": "22-xiaomi-15-5g-12-256-gb",
+      "image": null,
+      "imageAlt": "Xiaomi 15 5G 12/256 GB",
+      "active": true,
+      "specifications": {
+        "Ecrã": "6,36″ AMOLED 120 Hz",
+        "RAM": "12 GB",
+        "Armazenamento": "256 GB",
+        "Rede": "5G",
+        "Câmara": "50 MP Leica",
+        "Bateria": "5 240 mAh"
+      },
+      "specLabels": [
+        "Ecrã",
+        "RAM",
+        "Armazenamento",
+        "Rede",
+        "Câmara",
+        "Bateria"
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Xiaomi 15 Ultra 5G 16/512 GB",
+      "category": "Telemóveis",
+      "icon": "📱",
+      "spec": [
+        "6,73″ AMOLED 120 Hz",
+        "16 GB",
+        "512 GB",
+        "5G",
+        "200 MP Leica",
+        "5 410 mAh"
+      ],
+      "rating": "4,5",
+      "popularity": 62,
+      "offers": [
+        {
+          "store": "Worten",
+          "price": 1199.99,
+          "stock": true,
+          "delivery": "1–2 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "FNAC",
+          "price": 1241.99,
+          "stock": true,
+          "delivery": "2–3 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "PCDIGA",
+          "price": 1271.99,
+          "stock": true,
+          "delivery": "2–4 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        }
+      ],
+      "brand": "Xiaomi",
+      "slug": "23-xiaomi-15-ultra-5g-16-512-gb",
+      "image": null,
+      "imageAlt": "Xiaomi 15 Ultra 5G 16/512 GB",
+      "active": true,
+      "specifications": {
+        "Ecrã": "6,73″ AMOLED 120 Hz",
+        "RAM": "16 GB",
+        "Armazenamento": "512 GB",
+        "Rede": "5G",
+        "Câmara": "200 MP Leica",
+        "Bateria": "5 410 mAh"
+      },
+      "specLabels": [
+        "Ecrã",
+        "RAM",
+        "Armazenamento",
+        "Rede",
+        "Câmara",
+        "Bateria"
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Samsung Galaxy A16 5G 4/128 GB",
+      "category": "Telemóveis",
+      "icon": "📱",
+      "spec": [
+        "6,7″ Super AMOLED",
+        "4 GB",
+        "128 GB",
+        "5G",
+        "50 MP",
+        "5 000 mAh"
+      ],
+      "rating": "4,5",
+      "popularity": 82,
+      "offers": [
+        {
+          "store": "Worten",
+          "price": 149.99,
+          "stock": true,
+          "delivery": "1–2 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "FNAC",
+          "price": 155.24,
+          "stock": true,
+          "delivery": "2–3 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "PCDIGA",
+          "price": 158.99,
+          "stock": true,
+          "delivery": "2–4 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        }
+      ],
+      "brand": "Samsung",
+      "slug": "24-samsung-galaxy-a16-5g-4-128-gb",
+      "image": null,
+      "imageAlt": "Samsung Galaxy A16 5G 4/128 GB",
+      "active": true,
+      "specifications": {
+        "Ecrã": "6,7″ Super AMOLED",
+        "RAM": "4 GB",
+        "Armazenamento": "128 GB",
+        "Rede": "5G",
+        "Câmara": "50 MP",
+        "Bateria": "5 000 mAh"
+      },
+      "specLabels": [
+        "Ecrã",
+        "RAM",
+        "Armazenamento",
+        "Rede",
+        "Câmara",
+        "Bateria"
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Samsung Galaxy A26 5G 6/128 GB",
+      "category": "Telemóveis",
+      "icon": "📱",
+      "spec": [
+        "6,7″ Super AMOLED 120 Hz",
+        "6 GB",
+        "128 GB",
+        "5G",
+        "50 MP OIS",
+        "5 000 mAh"
+      ],
+      "rating": "4,5",
+      "popularity": 90,
+      "offers": [
+        {
+          "store": "Worten",
+          "price": 249.99,
+          "stock": true,
+          "delivery": "1–2 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "FNAC",
+          "price": 258.74,
+          "stock": true,
+          "delivery": "2–3 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "PCDIGA",
+          "price": 264.99,
+          "stock": true,
+          "delivery": "2–4 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        }
+      ],
+      "brand": "Samsung",
+      "slug": "25-samsung-galaxy-a26-5g-6-128-gb",
+      "image": null,
+      "imageAlt": "Samsung Galaxy A26 5G 6/128 GB",
+      "active": true,
+      "specifications": {
+        "Ecrã": "6,7″ Super AMOLED 120 Hz",
+        "RAM": "6 GB",
+        "Armazenamento": "128 GB",
+        "Rede": "5G",
+        "Câmara": "50 MP OIS",
+        "Bateria": "5 000 mAh"
+      },
+      "specLabels": [
+        "Ecrã",
+        "RAM",
+        "Armazenamento",
+        "Rede",
+        "Câmara",
+        "Bateria"
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Samsung Galaxy A36 5G 8/256 GB",
+      "category": "Telemóveis",
+      "icon": "📱",
+      "spec": [
+        "6,7″ Super AMOLED 120 Hz",
+        "8 GB",
+        "256 GB",
+        "5G",
+        "50 MP OIS",
+        "5 000 mAh"
+      ],
+      "rating": "4,5",
+      "popularity": 94,
+      "offers": [
+        {
+          "store": "Worten",
+          "price": 329.99,
+          "stock": true,
+          "delivery": "1–2 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "FNAC",
+          "price": 341.54,
+          "stock": true,
+          "delivery": "2–3 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "PCDIGA",
+          "price": 349.79,
+          "stock": true,
+          "delivery": "2–4 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        }
+      ],
+      "brand": "Samsung",
+      "slug": "26-samsung-galaxy-a36-5g-8-256-gb",
+      "image": null,
+      "imageAlt": "Samsung Galaxy A36 5G 8/256 GB",
+      "active": true,
+      "specifications": {
+        "Ecrã": "6,7″ Super AMOLED 120 Hz",
+        "RAM": "8 GB",
+        "Armazenamento": "256 GB",
+        "Rede": "5G",
+        "Câmara": "50 MP OIS",
+        "Bateria": "5 000 mAh"
+      },
+      "specLabels": [
+        "Ecrã",
+        "RAM",
+        "Armazenamento",
+        "Rede",
+        "Câmara",
+        "Bateria"
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Samsung Galaxy A56 5G 8/256 GB",
+      "category": "Telemóveis",
+      "icon": "📱",
+      "spec": [
+        "6,7″ Super AMOLED 120 Hz",
+        "8 GB",
+        "256 GB",
+        "5G",
+        "50 MP OIS",
+        "5 000 mAh"
+      ],
+      "rating": "4,5",
+      "popularity": 97,
+      "offers": [
+        {
+          "store": "Worten",
+          "price": 399.99,
+          "stock": true,
+          "delivery": "1–2 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "FNAC",
+          "price": 413.99,
+          "stock": true,
+          "delivery": "2–3 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "PCDIGA",
+          "price": 423.99,
+          "stock": true,
+          "delivery": "2–4 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        }
+      ],
+      "brand": "Samsung",
+      "slug": "27-samsung-galaxy-a56-5g-8-256-gb",
+      "image": null,
+      "imageAlt": "Samsung Galaxy A56 5G 8/256 GB",
+      "active": true,
+      "specifications": {
+        "Ecrã": "6,7″ Super AMOLED 120 Hz",
+        "RAM": "8 GB",
+        "Armazenamento": "256 GB",
+        "Rede": "5G",
+        "Câmara": "50 MP OIS",
+        "Bateria": "5 000 mAh"
+      },
+      "specLabels": [
+        "Ecrã",
+        "RAM",
+        "Armazenamento",
+        "Rede",
+        "Câmara",
+        "Bateria"
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Samsung Galaxy S24 5G 8/256 GB",
+      "category": "Telemóveis",
+      "icon": "📱",
+      "spec": [
+        "6,2″ Dynamic AMOLED 120 Hz",
+        "8 GB",
+        "256 GB",
+        "5G",
+        "50 MP",
+        "4 000 mAh"
+      ],
+      "rating": "4,5",
+      "popularity": 92,
+      "offers": [
+        {
+          "store": "Worten",
+          "price": 549.99,
+          "stock": true,
+          "delivery": "1–2 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "FNAC",
+          "price": 569.24,
+          "stock": true,
+          "delivery": "2–3 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "PCDIGA",
+          "price": 582.99,
+          "stock": true,
+          "delivery": "2–4 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        }
+      ],
+      "brand": "Samsung",
+      "slug": "28-samsung-galaxy-s24-5g-8-256-gb",
+      "image": null,
+      "imageAlt": "Samsung Galaxy S24 5G 8/256 GB",
+      "active": true,
+      "specifications": {
+        "Ecrã": "6,2″ Dynamic AMOLED 120 Hz",
+        "RAM": "8 GB",
+        "Armazenamento": "256 GB",
+        "Rede": "5G",
+        "Câmara": "50 MP",
+        "Bateria": "4 000 mAh"
+      },
+      "specLabels": [
+        "Ecrã",
+        "RAM",
+        "Armazenamento",
+        "Rede",
+        "Câmara",
+        "Bateria"
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Samsung Galaxy S24 Ultra 5G 12/512 GB",
+      "category": "Telemóveis",
+      "icon": "📱",
+      "spec": [
+        "6,8″ Dynamic AMOLED 120 Hz",
+        "12 GB",
+        "512 GB",
+        "5G",
+        "200 MP",
+        "5 000 mAh"
+      ],
+      "rating": "4,5",
+      "popularity": 96,
+      "offers": [
+        {
+          "store": "Worten",
+          "price": 949.99,
+          "stock": true,
+          "delivery": "1–2 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "FNAC",
+          "price": 983.24,
+          "stock": true,
+          "delivery": "2–3 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "PCDIGA",
+          "price": 1006.99,
+          "stock": true,
+          "delivery": "2–4 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        }
+      ],
+      "brand": "Samsung",
+      "slug": "29-samsung-galaxy-s24-ultra-5g-12-512-gb",
+      "image": null,
+      "imageAlt": "Samsung Galaxy S24 Ultra 5G 12/512 GB",
+      "active": true,
+      "specifications": {
+        "Ecrã": "6,8″ Dynamic AMOLED 120 Hz",
+        "RAM": "12 GB",
+        "Armazenamento": "512 GB",
+        "Rede": "5G",
+        "Câmara": "200 MP",
+        "Bateria": "5 000 mAh"
+      },
+      "specLabels": [
+        "Ecrã",
+        "RAM",
+        "Armazenamento",
+        "Rede",
+        "Câmara",
+        "Bateria"
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Samsung Galaxy S25 5G 12/256 GB",
+      "category": "Telemóveis",
+      "icon": "📱",
+      "spec": [
+        "6,2″ Dynamic AMOLED 120 Hz",
+        "12 GB",
+        "256 GB",
+        "5G",
+        "50 MP",
+        "4 000 mAh"
+      ],
+      "rating": "4,5",
+      "popularity": 93,
+      "offers": [
+        {
+          "store": "Worten",
+          "price": 799.99,
+          "stock": true,
+          "delivery": "1–2 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "FNAC",
+          "price": 827.99,
+          "stock": true,
+          "delivery": "2–3 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "PCDIGA",
+          "price": 847.99,
+          "stock": true,
+          "delivery": "2–4 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        }
+      ],
+      "brand": "Samsung",
+      "slug": "30-samsung-galaxy-s25-5g-12-256-gb",
+      "image": null,
+      "imageAlt": "Samsung Galaxy S25 5G 12/256 GB",
+      "active": true,
+      "specifications": {
+        "Ecrã": "6,2″ Dynamic AMOLED 120 Hz",
+        "RAM": "12 GB",
+        "Armazenamento": "256 GB",
+        "Rede": "5G",
+        "Câmara": "50 MP",
+        "Bateria": "4 000 mAh"
+      },
+      "specLabels": [
+        "Ecrã",
+        "RAM",
+        "Armazenamento",
+        "Rede",
+        "Câmara",
+        "Bateria"
+      ]
+    },
+    {
+      "id": 31,
+      "name": "Samsung Galaxy S25 Ultra 5G 12/512 GB",
+      "category": "Telemóveis",
+      "icon": "📱",
+      "spec": [
+        "6,9″ Dynamic AMOLED 120 Hz",
+        "12 GB",
+        "512 GB",
+        "5G",
+        "200 MP",
+        "5 000 mAh"
+      ],
+      "rating": "4,5",
+      "popularity": 99,
+      "offers": [
+        {
+          "store": "Worten",
+          "price": 1199.99,
+          "stock": true,
+          "delivery": "1–2 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "FNAC",
+          "price": 1241.99,
+          "stock": true,
+          "delivery": "2–3 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "PCDIGA",
+          "price": 1271.99,
+          "stock": true,
+          "delivery": "2–4 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        }
+      ],
+      "brand": "Samsung",
+      "slug": "31-samsung-galaxy-s25-ultra-5g-12-512-gb",
+      "image": null,
+      "imageAlt": "Samsung Galaxy S25 Ultra 5G 12/512 GB",
+      "active": true,
+      "specifications": {
+        "Ecrã": "6,9″ Dynamic AMOLED 120 Hz",
+        "RAM": "12 GB",
+        "Armazenamento": "512 GB",
+        "Rede": "5G",
+        "Câmara": "200 MP",
+        "Bateria": "5 000 mAh"
+      },
+      "specLabels": [
+        "Ecrã",
+        "RAM",
+        "Armazenamento",
+        "Rede",
+        "Câmara",
+        "Bateria"
+      ]
+    },
+    {
+      "id": 32,
+      "name": "Apple iPhone 13 128 GB",
+      "category": "Telemóveis",
+      "icon": "📱",
+      "spec": [
+        "6,1″ OLED",
+        "4 GB",
+        "128 GB",
+        "5G",
+        "12 MP + 12 MP",
+        "3 227 mAh"
+      ],
+      "rating": "4,5",
+      "popularity": 84,
+      "offers": [
+        {
+          "store": "Worten",
+          "price": 429.99,
+          "stock": true,
+          "delivery": "1–2 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "FNAC",
+          "price": 445.04,
+          "stock": true,
+          "delivery": "2–3 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "PCDIGA",
+          "price": 455.79,
+          "stock": true,
+          "delivery": "2–4 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        }
+      ],
+      "brand": "Apple",
+      "slug": "32-apple-iphone-13-128-gb",
+      "image": null,
+      "imageAlt": "Apple iPhone 13 128 GB",
+      "active": true,
+      "specifications": {
+        "Ecrã": "6,1″ OLED",
+        "RAM": "4 GB",
+        "Armazenamento": "128 GB",
+        "Rede": "5G",
+        "Câmara": "12 MP + 12 MP",
+        "Bateria": "3 227 mAh"
+      },
+      "specLabels": [
+        "Ecrã",
+        "RAM",
+        "Armazenamento",
+        "Rede",
+        "Câmara",
+        "Bateria"
+      ]
+    },
+    {
+      "id": 33,
+      "name": "Apple iPhone 14 128 GB",
+      "category": "Telemóveis",
+      "icon": "📱",
+      "spec": [
+        "6,1″ OLED",
+        "6 GB",
+        "128 GB",
+        "5G",
+        "12 MP + 12 MP",
+        "3 279 mAh"
+      ],
+      "rating": "4,5",
+      "popularity": 86,
+      "offers": [
+        {
+          "store": "Worten",
+          "price": 499.99,
+          "stock": true,
+          "delivery": "1–2 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "FNAC",
+          "price": 517.49,
+          "stock": true,
+          "delivery": "2–3 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "PCDIGA",
+          "price": 529.99,
+          "stock": true,
+          "delivery": "2–4 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        }
+      ],
+      "brand": "Apple",
+      "slug": "33-apple-iphone-14-128-gb",
+      "image": null,
+      "imageAlt": "Apple iPhone 14 128 GB",
+      "active": true,
+      "specifications": {
+        "Ecrã": "6,1″ OLED",
+        "RAM": "6 GB",
+        "Armazenamento": "128 GB",
+        "Rede": "5G",
+        "Câmara": "12 MP + 12 MP",
+        "Bateria": "3 279 mAh"
+      },
+      "specLabels": [
+        "Ecrã",
+        "RAM",
+        "Armazenamento",
+        "Rede",
+        "Câmara",
+        "Bateria"
+      ]
+    },
+    {
+      "id": 34,
+      "name": "Apple iPhone 15 128 GB",
+      "category": "Telemóveis",
+      "icon": "📱",
+      "spec": [
+        "6,1″ OLED",
+        "6 GB",
+        "128 GB",
+        "5G",
+        "48 MP + 12 MP",
+        "3 349 mAh"
+      ],
+      "rating": "4,5",
+      "popularity": 96,
+      "offers": [
+        {
+          "store": "Worten",
+          "price": 649.99,
+          "stock": true,
+          "delivery": "1–2 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "FNAC",
+          "price": 672.74,
+          "stock": true,
+          "delivery": "2–3 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "PCDIGA",
+          "price": 688.99,
+          "stock": true,
+          "delivery": "2–4 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        }
+      ],
+      "brand": "Apple",
+      "slug": "34-apple-iphone-15-128-gb",
+      "image": null,
+      "imageAlt": "Apple iPhone 15 128 GB",
+      "active": true,
+      "specifications": {
+        "Ecrã": "6,1″ OLED",
+        "RAM": "6 GB",
+        "Armazenamento": "128 GB",
+        "Rede": "5G",
+        "Câmara": "48 MP + 12 MP",
+        "Bateria": "3 349 mAh"
+      },
+      "specLabels": [
+        "Ecrã",
+        "RAM",
+        "Armazenamento",
+        "Rede",
+        "Câmara",
+        "Bateria"
+      ]
+    },
+    {
+      "id": 35,
+      "name": "Apple iPhone 15 Pro 256 GB",
+      "category": "Telemóveis",
+      "icon": "📱",
+      "spec": [
+        "6,1″ OLED 120 Hz",
+        "8 GB",
+        "256 GB",
+        "5G",
+        "48 MP + 12 MP + 12 MP",
+        "3 274 mAh"
+      ],
+      "rating": "4,5",
+      "popularity": 90,
+      "offers": [
+        {
+          "store": "Worten",
+          "price": 899.99,
+          "stock": true,
+          "delivery": "1–2 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "FNAC",
+          "price": 931.49,
+          "stock": true,
+          "delivery": "2–3 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "PCDIGA",
+          "price": 953.99,
+          "stock": true,
+          "delivery": "2–4 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        }
+      ],
+      "brand": "Apple",
+      "slug": "35-apple-iphone-15-pro-256-gb",
+      "image": null,
+      "imageAlt": "Apple iPhone 15 Pro 256 GB",
+      "active": true,
+      "specifications": {
+        "Ecrã": "6,1″ OLED 120 Hz",
+        "RAM": "8 GB",
+        "Armazenamento": "256 GB",
+        "Rede": "5G",
+        "Câmara": "48 MP + 12 MP + 12 MP",
+        "Bateria": "3 274 mAh"
+      },
+      "specLabels": [
+        "Ecrã",
+        "RAM",
+        "Armazenamento",
+        "Rede",
+        "Câmara",
+        "Bateria"
+      ]
+    },
+    {
+      "id": 36,
+      "name": "Apple iPhone 16 128 GB",
+      "category": "Telemóveis",
+      "icon": "📱",
+      "spec": [
+        "6,1″ OLED",
+        "8 GB",
+        "128 GB",
+        "5G",
+        "48 MP + 12 MP",
+        "3 561 mAh"
+      ],
+      "rating": "4,5",
+      "popularity": 98,
+      "offers": [
+        {
+          "store": "Worten",
+          "price": 749.99,
+          "stock": true,
+          "delivery": "1–2 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "FNAC",
+          "price": 776.24,
+          "stock": true,
+          "delivery": "2–3 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "PCDIGA",
+          "price": 794.99,
+          "stock": true,
+          "delivery": "2–4 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        }
+      ],
+      "brand": "Apple",
+      "slug": "36-apple-iphone-16-128-gb",
+      "image": null,
+      "imageAlt": "Apple iPhone 16 128 GB",
+      "active": true,
+      "specifications": {
+        "Ecrã": "6,1″ OLED",
+        "RAM": "8 GB",
+        "Armazenamento": "128 GB",
+        "Rede": "5G",
+        "Câmara": "48 MP + 12 MP",
+        "Bateria": "3 561 mAh"
+      },
+      "specLabels": [
+        "Ecrã",
+        "RAM",
+        "Armazenamento",
+        "Rede",
+        "Câmara",
+        "Bateria"
+      ]
+    },
+    {
+      "id": 37,
+      "name": "Apple iPhone 16 Pro 256 GB",
+      "category": "Telemóveis",
+      "icon": "📱",
+      "spec": [
+        "6,3″ OLED 120 Hz",
+        "8 GB",
+        "256 GB",
+        "5G",
+        "48 MP + 48 MP + 12 MP",
+        "3 582 mAh"
+      ],
+      "rating": "4,5",
+      "popularity": 94,
+      "offers": [
+        {
+          "store": "Worten",
+          "price": 999.99,
+          "stock": true,
+          "delivery": "1–2 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "FNAC",
+          "price": 1034.99,
+          "stock": true,
+          "delivery": "2–3 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "PCDIGA",
+          "price": 1059.99,
+          "stock": true,
+          "delivery": "2–4 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        }
+      ],
+      "brand": "Apple",
+      "slug": "37-apple-iphone-16-pro-256-gb",
+      "image": null,
+      "imageAlt": "Apple iPhone 16 Pro 256 GB",
+      "active": true,
+      "specifications": {
+        "Ecrã": "6,3″ OLED 120 Hz",
+        "RAM": "8 GB",
+        "Armazenamento": "256 GB",
+        "Rede": "5G",
+        "Câmara": "48 MP + 48 MP + 12 MP",
+        "Bateria": "3 582 mAh"
+      },
+      "specLabels": [
+        "Ecrã",
+        "RAM",
+        "Armazenamento",
+        "Rede",
+        "Câmara",
+        "Bateria"
+      ]
+    },
+    {
+      "id": 38,
+      "name": "Apple iPhone 16 Pro Max 256 GB",
+      "category": "Telemóveis",
+      "icon": "📱",
+      "spec": [
+        "6,9″ OLED 120 Hz",
+        "8 GB",
+        "256 GB",
+        "5G",
+        "48 MP + 48 MP + 12 MP",
+        "4 685 mAh"
+      ],
+      "rating": "4,5",
+      "popularity": 97,
+      "offers": [
+        {
+          "store": "Worten",
+          "price": 1199.99,
+          "stock": true,
+          "delivery": "1–2 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "FNAC",
+          "price": 1241.99,
+          "stock": true,
+          "delivery": "2–3 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "PCDIGA",
+          "price": 1271.99,
+          "stock": true,
+          "delivery": "2–4 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        }
+      ],
+      "brand": "Apple",
+      "slug": "38-apple-iphone-16-pro-max-256-gb",
+      "image": null,
+      "imageAlt": "Apple iPhone 16 Pro Max 256 GB",
+      "active": true,
+      "specifications": {
+        "Ecrã": "6,9″ OLED 120 Hz",
+        "RAM": "8 GB",
+        "Armazenamento": "256 GB",
+        "Rede": "5G",
+        "Câmara": "48 MP + 48 MP + 12 MP",
+        "Bateria": "4 685 mAh"
+      },
+      "specLabels": [
+        "Ecrã",
+        "RAM",
+        "Armazenamento",
+        "Rede",
+        "Câmara",
+        "Bateria"
+      ]
+    },
+    {
+      "id": 39,
+      "name": "Xiaomi Redmi Pad SE 8/256 GB",
+      "category": "Tablets",
+      "icon": "📱",
+      "spec": [
+        "11″ 90 Hz",
+        "8 GB",
+        "256 GB",
+        "Wi‑Fi",
+        "8 MP",
+        "8 000 mAh"
+      ],
+      "rating": "4,5",
+      "popularity": 82,
+      "offers": [
+        {
+          "store": "Worten",
+          "price": 199.99,
+          "stock": true,
+          "delivery": "1–2 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "FNAC",
+          "price": 206.99,
+          "stock": true,
+          "delivery": "2–3 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "PCDIGA",
+          "price": 211.99,
+          "stock": true,
+          "delivery": "2–4 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        }
+      ],
+      "brand": "Xiaomi",
+      "slug": "39-xiaomi-redmi-pad-se-8-256-gb",
+      "image": null,
+      "imageAlt": "Xiaomi Redmi Pad SE 8/256 GB",
+      "active": true,
+      "specifications": {
+        "Ecrã": "11″ 90 Hz",
+        "RAM": "8 GB",
+        "Armazenamento": "256 GB",
+        "Rede": "Wi‑Fi",
+        "Câmaras": "8 MP",
+        "Bateria": "8 000 mAh"
+      },
+      "specLabels": [
+        "Ecrã",
+        "RAM",
+        "Armazenamento",
+        "Rede",
+        "Câmaras",
+        "Bateria"
+      ]
+    },
+    {
+      "id": 40,
+      "name": "Xiaomi Pad 7 8/256 GB",
+      "category": "Tablets",
+      "icon": "📱",
+      "spec": [
+        "11,2″ 144 Hz",
+        "8 GB",
+        "256 GB",
+        "Wi‑Fi",
+        "13 MP",
+        "8 850 mAh"
+      ],
+      "rating": "4,5",
+      "popularity": 88,
+      "offers": [
+        {
+          "store": "Worten",
+          "price": 399.99,
+          "stock": true,
+          "delivery": "1–2 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "FNAC",
+          "price": 413.99,
+          "stock": true,
+          "delivery": "2–3 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "PCDIGA",
+          "price": 423.99,
+          "stock": true,
+          "delivery": "2–4 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        }
+      ],
+      "brand": "Xiaomi",
+      "slug": "40-xiaomi-pad-7-8-256-gb",
+      "image": null,
+      "imageAlt": "Xiaomi Pad 7 8/256 GB",
+      "active": true,
+      "specifications": {
+        "Ecrã": "11,2″ 144 Hz",
+        "RAM": "8 GB",
+        "Armazenamento": "256 GB",
+        "Rede": "Wi‑Fi",
+        "Câmaras": "13 MP",
+        "Bateria": "8 850 mAh"
+      },
+      "specLabels": [
+        "Ecrã",
+        "RAM",
+        "Armazenamento",
+        "Rede",
+        "Câmaras",
+        "Bateria"
+      ]
+    },
+    {
+      "id": 41,
+      "name": "Samsung Galaxy Tab A9+ 8/128 GB",
+      "category": "Tablets",
+      "icon": "📱",
+      "spec": [
+        "11″ 90 Hz",
+        "8 GB",
+        "128 GB",
+        "Wi‑Fi",
+        "8 MP",
+        "7 040 mAh"
+      ],
+      "rating": "4,5",
+      "popularity": 90,
+      "offers": [
+        {
+          "store": "Worten",
+          "price": 229.99,
+          "stock": true,
+          "delivery": "1–2 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "FNAC",
+          "price": 238.04,
+          "stock": true,
+          "delivery": "2–3 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "PCDIGA",
+          "price": 243.79,
+          "stock": true,
+          "delivery": "2–4 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        }
+      ],
+      "brand": "Samsung",
+      "slug": "41-samsung-galaxy-tab-a9-8-128-gb",
+      "image": null,
+      "imageAlt": "Samsung Galaxy Tab A9+ 8/128 GB",
+      "active": true,
+      "specifications": {
+        "Ecrã": "11″ 90 Hz",
+        "RAM": "8 GB",
+        "Armazenamento": "128 GB",
+        "Rede": "Wi‑Fi",
+        "Câmaras": "8 MP",
+        "Bateria": "7 040 mAh"
+      },
+      "specLabels": [
+        "Ecrã",
+        "RAM",
+        "Armazenamento",
+        "Rede",
+        "Câmaras",
+        "Bateria"
+      ]
+    },
+    {
+      "id": 42,
+      "name": "Samsung Galaxy Tab S9 FE 6/128 GB",
+      "category": "Tablets",
+      "icon": "📱",
+      "spec": [
+        "10,9″ 90 Hz",
+        "6 GB",
+        "128 GB",
+        "Wi‑Fi",
+        "8 MP",
+        "8 000 mAh"
+      ],
+      "rating": "4,5",
+      "popularity": 84,
+      "offers": [
+        {
+          "store": "Worten",
+          "price": 449.99,
+          "stock": true,
+          "delivery": "1–2 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "FNAC",
+          "price": 465.74,
+          "stock": true,
+          "delivery": "2–3 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "PCDIGA",
+          "price": 476.99,
+          "stock": true,
+          "delivery": "2–4 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        }
+      ],
+      "brand": "Samsung",
+      "slug": "42-samsung-galaxy-tab-s9-fe-6-128-gb",
+      "image": null,
+      "imageAlt": "Samsung Galaxy Tab S9 FE 6/128 GB",
+      "active": true,
+      "specifications": {
+        "Ecrã": "10,9″ 90 Hz",
+        "RAM": "6 GB",
+        "Armazenamento": "128 GB",
+        "Rede": "Wi‑Fi",
+        "Câmaras": "8 MP",
+        "Bateria": "8 000 mAh"
+      },
+      "specLabels": [
+        "Ecrã",
+        "RAM",
+        "Armazenamento",
+        "Rede",
+        "Câmaras",
+        "Bateria"
+      ]
+    },
+    {
+      "id": 43,
+      "name": "Samsung Galaxy Tab S10 FE 8/128 GB",
+      "category": "Tablets",
+      "icon": "📱",
+      "spec": [
+        "10,9″ 90 Hz",
+        "8 GB",
+        "128 GB",
+        "Wi‑Fi",
+        "13 MP",
+        "8 000 mAh"
+      ],
+      "rating": "4,5",
+      "popularity": 79,
+      "offers": [
+        {
+          "store": "Worten",
+          "price": 549.99,
+          "stock": true,
+          "delivery": "1–2 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "FNAC",
+          "price": 569.24,
+          "stock": true,
+          "delivery": "2–3 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "PCDIGA",
+          "price": 582.99,
+          "stock": true,
+          "delivery": "2–4 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        }
+      ],
+      "brand": "Samsung",
+      "slug": "43-samsung-galaxy-tab-s10-fe-8-128-gb",
+      "image": null,
+      "imageAlt": "Samsung Galaxy Tab S10 FE 8/128 GB",
+      "active": true,
+      "specifications": {
+        "Ecrã": "10,9″ 90 Hz",
+        "RAM": "8 GB",
+        "Armazenamento": "128 GB",
+        "Rede": "Wi‑Fi",
+        "Câmaras": "13 MP",
+        "Bateria": "8 000 mAh"
+      },
+      "specLabels": [
+        "Ecrã",
+        "RAM",
+        "Armazenamento",
+        "Rede",
+        "Câmaras",
+        "Bateria"
+      ]
+    },
+    {
+      "id": 44,
+      "name": "Apple iPad 10.9 64 GB",
+      "category": "Tablets",
+      "icon": "📱",
+      "spec": [
+        "10,9″ Liquid Retina",
+        "4 GB",
+        "64 GB",
+        "Wi‑Fi",
+        "12 MP",
+        "28,6 Wh"
+      ],
+      "rating": "4,5",
+      "popularity": 95,
+      "offers": [
+        {
+          "store": "Worten",
+          "price": 349.99,
+          "stock": true,
+          "delivery": "1–2 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "FNAC",
+          "price": 362.24,
+          "stock": true,
+          "delivery": "2–3 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "PCDIGA",
+          "price": 370.99,
+          "stock": true,
+          "delivery": "2–4 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        }
+      ],
+      "brand": "Apple",
+      "slug": "44-apple-ipad-10-9-64-gb",
+      "image": null,
+      "imageAlt": "Apple iPad 10.9 64 GB",
+      "active": true,
+      "specifications": {
+        "Ecrã": "10,9″ Liquid Retina",
+        "RAM": "4 GB",
+        "Armazenamento": "64 GB",
+        "Rede": "Wi‑Fi",
+        "Câmaras": "12 MP",
+        "Bateria": "28,6 Wh"
+      },
+      "specLabels": [
+        "Ecrã",
+        "RAM",
+        "Armazenamento",
+        "Rede",
+        "Câmaras",
+        "Bateria"
+      ]
+    },
+    {
+      "id": 45,
+      "name": "Apple iPad Air 11 128 GB",
+      "category": "Tablets",
+      "icon": "📱",
+      "spec": [
+        "11″ Liquid Retina",
+        "8 GB",
+        "128 GB",
+        "Wi‑Fi",
+        "12 MP",
+        "28,9 Wh"
+      ],
+      "rating": "4,5",
+      "popularity": 91,
+      "offers": [
+        {
+          "store": "Worten",
+          "price": 599.99,
+          "stock": true,
+          "delivery": "1–2 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "FNAC",
+          "price": 620.99,
+          "stock": true,
+          "delivery": "2–3 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "PCDIGA",
+          "price": 635.99,
+          "stock": true,
+          "delivery": "2–4 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        }
+      ],
+      "brand": "Apple",
+      "slug": "45-apple-ipad-air-11-128-gb",
+      "image": null,
+      "imageAlt": "Apple iPad Air 11 128 GB",
+      "active": true,
+      "specifications": {
+        "Ecrã": "11″ Liquid Retina",
+        "RAM": "8 GB",
+        "Armazenamento": "128 GB",
+        "Rede": "Wi‑Fi",
+        "Câmaras": "12 MP",
+        "Bateria": "28,9 Wh"
+      },
+      "specLabels": [
+        "Ecrã",
+        "RAM",
+        "Armazenamento",
+        "Rede",
+        "Câmaras",
+        "Bateria"
+      ]
+    },
+    {
+      "id": 46,
+      "name": "Apple iPad Pro 11 256 GB",
+      "category": "Tablets",
+      "icon": "📱",
+      "spec": [
+        "11″ Ultra Retina XDR 120 Hz",
+        "8 GB",
+        "256 GB",
+        "Wi‑Fi",
+        "12 MP",
+        "31,3 Wh"
+      ],
+      "rating": "4,5",
+      "popularity": 78,
+      "offers": [
+        {
+          "store": "Worten",
+          "price": 999.99,
+          "stock": true,
+          "delivery": "1–2 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "FNAC",
+          "price": 1034.99,
+          "stock": true,
+          "delivery": "2–3 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "PCDIGA",
+          "price": 1059.99,
+          "stock": true,
+          "delivery": "2–4 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        }
+      ],
+      "brand": "Apple",
+      "slug": "46-apple-ipad-pro-11-256-gb",
+      "image": null,
+      "imageAlt": "Apple iPad Pro 11 256 GB",
+      "active": true,
+      "specifications": {
+        "Ecrã": "11″ Ultra Retina XDR 120 Hz",
+        "RAM": "8 GB",
+        "Armazenamento": "256 GB",
+        "Rede": "Wi‑Fi",
+        "Câmaras": "12 MP",
+        "Bateria": "31,3 Wh"
+      },
+      "specLabels": [
+        "Ecrã",
+        "RAM",
+        "Armazenamento",
+        "Rede",
+        "Câmaras",
+        "Bateria"
+      ]
+    },
+    {
+      "id": 47,
+      "name": "Lenovo IdeaPad 1 Ryzen 5 16/512 GB",
+      "category": "Portáteis",
+      "icon": "💻",
+      "spec": [
+        "15,6″ Full HD",
+        "16 GB",
+        "512 GB SSD",
+        "Ryzen 5",
+        "Radeon Graphics",
+        "47 Wh"
+      ],
+      "rating": "4,5",
+      "popularity": 83,
+      "offers": [
+        {
+          "store": "Worten",
+          "price": 449.99,
+          "stock": true,
+          "delivery": "1–2 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "FNAC",
+          "price": 465.74,
+          "stock": true,
+          "delivery": "2–3 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "PCDIGA",
+          "price": 476.99,
+          "stock": true,
+          "delivery": "2–4 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        }
+      ],
+      "brand": "Lenovo",
+      "slug": "47-lenovo-ideapad-1-ryzen-5-16-512-gb",
+      "image": null,
+      "imageAlt": "Lenovo IdeaPad 1 Ryzen 5 16/512 GB",
+      "active": true,
+      "specifications": {
+        "Ecrã": "15,6″ Full HD",
+        "RAM": "16 GB",
+        "Armazenamento": "512 GB SSD",
+        "Processador": "Ryzen 5",
+        "Gráficos": "Radeon Graphics",
+        "Bateria": "47 Wh"
+      },
+      "specLabels": [
+        "Ecrã",
+        "RAM",
+        "Armazenamento",
+        "Processador",
+        "Gráficos",
+        "Bateria"
+      ]
+    },
+    {
+      "id": 48,
+      "name": "Lenovo IdeaPad Slim 3 Ryzen 7 16/512 GB",
+      "category": "Portáteis",
+      "icon": "💻",
+      "spec": [
+        "15,6″ Full HD",
+        "16 GB",
+        "512 GB SSD",
+        "Ryzen 7",
+        "Radeon Graphics",
+        "47 Wh"
+      ],
+      "rating": "4,5",
+      "popularity": 89,
+      "offers": [
+        {
+          "store": "Worten",
+          "price": 579.99,
+          "stock": true,
+          "delivery": "1–2 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "FNAC",
+          "price": 600.29,
+          "stock": true,
+          "delivery": "2–3 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "PCDIGA",
+          "price": 614.79,
+          "stock": true,
+          "delivery": "2–4 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        }
+      ],
+      "brand": "Lenovo",
+      "slug": "48-lenovo-ideapad-slim-3-ryzen-7-16-512-gb",
+      "image": null,
+      "imageAlt": "Lenovo IdeaPad Slim 3 Ryzen 7 16/512 GB",
+      "active": true,
+      "specifications": {
+        "Ecrã": "15,6″ Full HD",
+        "RAM": "16 GB",
+        "Armazenamento": "512 GB SSD",
+        "Processador": "Ryzen 7",
+        "Gráficos": "Radeon Graphics",
+        "Bateria": "47 Wh"
+      },
+      "specLabels": [
+        "Ecrã",
+        "RAM",
+        "Armazenamento",
+        "Processador",
+        "Gráficos",
+        "Bateria"
+      ]
+    },
+    {
+      "id": 49,
+      "name": "Lenovo LOQ 15 RTX 4050 16/512 GB",
+      "category": "Portáteis",
+      "icon": "💻",
+      "spec": [
+        "15,6″ FHD 144 Hz",
+        "16 GB",
+        "512 GB SSD",
+        "Core i5",
+        "RTX 4050",
+        "60 Wh"
+      ],
+      "rating": "4,5",
+      "popularity": 92,
+      "offers": [
+        {
+          "store": "Worten",
+          "price": 849.99,
+          "stock": true,
+          "delivery": "1–2 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "FNAC",
+          "price": 879.74,
+          "stock": true,
+          "delivery": "2–3 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "PCDIGA",
+          "price": 900.99,
+          "stock": true,
+          "delivery": "2–4 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        }
+      ],
+      "brand": "Lenovo",
+      "slug": "49-lenovo-loq-15-rtx-4050-16-512-gb",
+      "image": null,
+      "imageAlt": "Lenovo LOQ 15 RTX 4050 16/512 GB",
+      "active": true,
+      "specifications": {
+        "Ecrã": "15,6″ FHD 144 Hz",
+        "RAM": "16 GB",
+        "Armazenamento": "512 GB SSD",
+        "Processador": "Core i5",
+        "Gráficos": "RTX 4050",
+        "Bateria": "60 Wh"
+      },
+      "specLabels": [
+        "Ecrã",
+        "RAM",
+        "Armazenamento",
+        "Processador",
+        "Gráficos",
+        "Bateria"
+      ]
+    },
+    {
+      "id": 50,
+      "name": "ASUS Vivobook 15 Ryzen 7 16/512 GB",
+      "category": "Portáteis",
+      "icon": "💻",
+      "spec": [
+        "15,6″ Full HD",
+        "16 GB",
+        "512 GB SSD",
+        "Ryzen 7",
+        "Radeon Graphics",
+        "42 Wh"
+      ],
+      "rating": "4,5",
+      "popularity": 88,
+      "offers": [
+        {
+          "store": "Worten",
+          "price": 599.99,
+          "stock": true,
+          "delivery": "1–2 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "FNAC",
+          "price": 620.99,
+          "stock": true,
+          "delivery": "2–3 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "PCDIGA",
+          "price": 635.99,
+          "stock": true,
+          "delivery": "2–4 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        }
+      ],
+      "brand": "ASUS",
+      "slug": "50-asus-vivobook-15-ryzen-7-16-512-gb",
+      "image": null,
+      "imageAlt": "ASUS Vivobook 15 Ryzen 7 16/512 GB",
+      "active": true,
+      "specifications": {
+        "Ecrã": "15,6″ Full HD",
+        "RAM": "16 GB",
+        "Armazenamento": "512 GB SSD",
+        "Processador": "Ryzen 7",
+        "Gráficos": "Radeon Graphics",
+        "Bateria": "42 Wh"
+      },
+      "specLabels": [
+        "Ecrã",
+        "RAM",
+        "Armazenamento",
+        "Processador",
+        "Gráficos",
+        "Bateria"
+      ]
+    },
+    {
+      "id": 51,
+      "name": "ASUS TUF Gaming A15 RTX 4060 16/512 GB",
+      "category": "Portáteis",
+      "icon": "💻",
+      "spec": [
+        "15,6″ FHD 144 Hz",
+        "16 GB",
+        "512 GB SSD",
+        "Ryzen 7",
+        "RTX 4060",
+        "90 Wh"
+      ],
+      "rating": "4,5",
+      "popularity": 94,
+      "offers": [
+        {
+          "store": "Worten",
+          "price": 999.99,
+          "stock": true,
+          "delivery": "1–2 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "FNAC",
+          "price": 1034.99,
+          "stock": true,
+          "delivery": "2–3 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "PCDIGA",
+          "price": 1059.99,
+          "stock": true,
+          "delivery": "2–4 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        }
+      ],
+      "brand": "ASUS",
+      "slug": "51-asus-tuf-gaming-a15-rtx-4060-16-512-gb",
+      "image": null,
+      "imageAlt": "ASUS TUF Gaming A15 RTX 4060 16/512 GB",
+      "active": true,
+      "specifications": {
+        "Ecrã": "15,6″ FHD 144 Hz",
+        "RAM": "16 GB",
+        "Armazenamento": "512 GB SSD",
+        "Processador": "Ryzen 7",
+        "Gráficos": "RTX 4060",
+        "Bateria": "90 Wh"
+      },
+      "specLabels": [
+        "Ecrã",
+        "RAM",
+        "Armazenamento",
+        "Processador",
+        "Gráficos",
+        "Bateria"
+      ]
+    },
+    {
+      "id": 52,
+      "name": "Acer Aspire 5 i5 16/512 GB",
+      "category": "Portáteis",
+      "icon": "💻",
+      "spec": [
+        "15,6″ Full HD",
+        "16 GB",
+        "512 GB SSD",
+        "Core i5",
+        "Iris Xe",
+        "50 Wh"
+      ],
+      "rating": "4,5",
+      "popularity": 86,
+      "offers": [
+        {
+          "store": "Worten",
+          "price": 549.99,
+          "stock": true,
+          "delivery": "1–2 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "FNAC",
+          "price": 569.24,
+          "stock": true,
+          "delivery": "2–3 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "PCDIGA",
+          "price": 582.99,
+          "stock": true,
+          "delivery": "2–4 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        }
+      ],
+      "brand": "Acer",
+      "slug": "52-acer-aspire-5-i5-16-512-gb",
+      "image": null,
+      "imageAlt": "Acer Aspire 5 i5 16/512 GB",
+      "active": true,
+      "specifications": {
+        "Ecrã": "15,6″ Full HD",
+        "RAM": "16 GB",
+        "Armazenamento": "512 GB SSD",
+        "Processador": "Core i5",
+        "Gráficos": "Iris Xe",
+        "Bateria": "50 Wh"
+      },
+      "specLabels": [
+        "Ecrã",
+        "RAM",
+        "Armazenamento",
+        "Processador",
+        "Gráficos",
+        "Bateria"
+      ]
+    },
+    {
+      "id": 53,
+      "name": "Acer Nitro V 15 RTX 4050 16/512 GB",
+      "category": "Portáteis",
+      "icon": "💻",
+      "spec": [
+        "15,6″ FHD 144 Hz",
+        "16 GB",
+        "512 GB SSD",
+        "Core i5",
+        "RTX 4050",
+        "57 Wh"
+      ],
+      "rating": "4,5",
+      "popularity": 90,
+      "offers": [
+        {
+          "store": "Worten",
+          "price": 799.99,
+          "stock": true,
+          "delivery": "1–2 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "FNAC",
+          "price": 827.99,
+          "stock": true,
+          "delivery": "2–3 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "PCDIGA",
+          "price": 847.99,
+          "stock": true,
+          "delivery": "2–4 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        }
+      ],
+      "brand": "Acer",
+      "slug": "53-acer-nitro-v-15-rtx-4050-16-512-gb",
+      "image": null,
+      "imageAlt": "Acer Nitro V 15 RTX 4050 16/512 GB",
+      "active": true,
+      "specifications": {
+        "Ecrã": "15,6″ FHD 144 Hz",
+        "RAM": "16 GB",
+        "Armazenamento": "512 GB SSD",
+        "Processador": "Core i5",
+        "Gráficos": "RTX 4050",
+        "Bateria": "57 Wh"
+      },
+      "specLabels": [
+        "Ecrã",
+        "RAM",
+        "Armazenamento",
+        "Processador",
+        "Gráficos",
+        "Bateria"
+      ]
+    },
+    {
+      "id": 54,
+      "name": "HP 15 Ryzen 5 16/512 GB",
+      "category": "Portáteis",
+      "icon": "💻",
+      "spec": [
+        "15,6″ Full HD",
+        "16 GB",
+        "512 GB SSD",
+        "Ryzen 5",
+        "Radeon Graphics",
+        "41 Wh"
+      ],
+      "rating": "4,5",
+      "popularity": 87,
+      "offers": [
+        {
+          "store": "Worten",
+          "price": 499.99,
+          "stock": true,
+          "delivery": "1–2 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "FNAC",
+          "price": 517.49,
+          "stock": true,
+          "delivery": "2–3 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "PCDIGA",
+          "price": 529.99,
+          "stock": true,
+          "delivery": "2–4 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        }
+      ],
+      "brand": "HP",
+      "slug": "54-hp-15-ryzen-5-16-512-gb",
+      "image": null,
+      "imageAlt": "HP 15 Ryzen 5 16/512 GB",
+      "active": true,
+      "specifications": {
+        "Ecrã": "15,6″ Full HD",
+        "RAM": "16 GB",
+        "Armazenamento": "512 GB SSD",
+        "Processador": "Ryzen 5",
+        "Gráficos": "Radeon Graphics",
+        "Bateria": "41 Wh"
+      },
+      "specLabels": [
+        "Ecrã",
+        "RAM",
+        "Armazenamento",
+        "Processador",
+        "Gráficos",
+        "Bateria"
+      ]
+    },
+    {
+      "id": 55,
+      "name": "HP Victus 15 RTX 4060 16/512 GB",
+      "category": "Portáteis",
+      "icon": "💻",
+      "spec": [
+        "15,6″ FHD 144 Hz",
+        "16 GB",
+        "512 GB SSD",
+        "Ryzen 7",
+        "RTX 4060",
+        "70 Wh"
+      ],
+      "rating": "4,5",
+      "popularity": 91,
+      "offers": [
+        {
+          "store": "Worten",
+          "price": 949.99,
+          "stock": true,
+          "delivery": "1–2 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "FNAC",
+          "price": 983.24,
+          "stock": true,
+          "delivery": "2–3 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "PCDIGA",
+          "price": 1006.99,
+          "stock": true,
+          "delivery": "2–4 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        }
+      ],
+      "brand": "HP",
+      "slug": "55-hp-victus-15-rtx-4060-16-512-gb",
+      "image": null,
+      "imageAlt": "HP Victus 15 RTX 4060 16/512 GB",
+      "active": true,
+      "specifications": {
+        "Ecrã": "15,6″ FHD 144 Hz",
+        "RAM": "16 GB",
+        "Armazenamento": "512 GB SSD",
+        "Processador": "Ryzen 7",
+        "Gráficos": "RTX 4060",
+        "Bateria": "70 Wh"
+      },
+      "specLabels": [
+        "Ecrã",
+        "RAM",
+        "Armazenamento",
+        "Processador",
+        "Gráficos",
+        "Bateria"
+      ]
+    },
+    {
+      "id": 56,
+      "name": "Apple MacBook Air 13 M3 16/256 GB",
+      "category": "Portáteis",
+      "icon": "💻",
+      "spec": [
+        "13,6″ Liquid Retina",
+        "16 GB",
+        "256 GB SSD",
+        "Apple M3",
+        "10-core GPU",
+        "52,6 Wh"
+      ],
+      "rating": "4,5",
+      "popularity": 96,
+      "offers": [
+        {
+          "store": "Worten",
+          "price": 949.99,
+          "stock": true,
+          "delivery": "1–2 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "FNAC",
+          "price": 983.24,
+          "stock": true,
+          "delivery": "2–3 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "PCDIGA",
+          "price": 1006.99,
+          "stock": true,
+          "delivery": "2–4 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        }
+      ],
+      "brand": "Apple",
+      "slug": "56-apple-macbook-air-13-m3-16-256-gb",
+      "image": null,
+      "imageAlt": "Apple MacBook Air 13 M3 16/256 GB",
+      "active": true,
+      "specifications": {
+        "Ecrã": "13,6″ Liquid Retina",
+        "RAM": "16 GB",
+        "Armazenamento": "256 GB SSD",
+        "Processador": "Apple M3",
+        "Gráficos": "10-core GPU",
+        "Bateria": "52,6 Wh"
+      },
+      "specLabels": [
+        "Ecrã",
+        "RAM",
+        "Armazenamento",
+        "Processador",
+        "Gráficos",
+        "Bateria"
+      ]
+    },
+    {
+      "id": 57,
+      "name": "Apple MacBook Air 15 M3 16/512 GB",
+      "category": "Portáteis",
+      "icon": "💻",
+      "spec": [
+        "15,3″ Liquid Retina",
+        "16 GB",
+        "512 GB SSD",
+        "Apple M3",
+        "10-core GPU",
+        "66,5 Wh"
+      ],
+      "rating": "4,5",
+      "popularity": 90,
+      "offers": [
+        {
+          "store": "Worten",
+          "price": 1199.99,
+          "stock": true,
+          "delivery": "1–2 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "FNAC",
+          "price": 1241.99,
+          "stock": true,
+          "delivery": "2–3 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "PCDIGA",
+          "price": 1271.99,
+          "stock": true,
+          "delivery": "2–4 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        }
+      ],
+      "brand": "Apple",
+      "slug": "57-apple-macbook-air-15-m3-16-512-gb",
+      "image": null,
+      "imageAlt": "Apple MacBook Air 15 M3 16/512 GB",
+      "active": true,
+      "specifications": {
+        "Ecrã": "15,3″ Liquid Retina",
+        "RAM": "16 GB",
+        "Armazenamento": "512 GB SSD",
+        "Processador": "Apple M3",
+        "Gráficos": "10-core GPU",
+        "Bateria": "66,5 Wh"
+      },
+      "specLabels": [
+        "Ecrã",
+        "RAM",
+        "Armazenamento",
+        "Processador",
+        "Gráficos",
+        "Bateria"
+      ]
+    },
+    {
+      "id": 58,
+      "name": "Apple MacBook Pro 14 M4 16/512 GB",
+      "category": "Portáteis",
+      "icon": "💻",
+      "spec": [
+        "14,2″ Liquid Retina XDR",
+        "16 GB",
+        "512 GB SSD",
+        "Apple M4",
+        "10-core GPU",
+        "72,4 Wh"
+      ],
+      "rating": "4,5",
+      "popularity": 88,
+      "offers": [
+        {
+          "store": "Worten",
+          "price": 1699.99,
+          "stock": true,
+          "delivery": "1–2 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "FNAC",
+          "price": 1759.49,
+          "stock": true,
+          "delivery": "2–3 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "PCDIGA",
+          "price": 1801.99,
+          "stock": true,
+          "delivery": "2–4 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        }
+      ],
+      "brand": "Apple",
+      "slug": "58-apple-macbook-pro-14-m4-16-512-gb",
+      "image": null,
+      "imageAlt": "Apple MacBook Pro 14 M4 16/512 GB",
+      "active": true,
+      "specifications": {
+        "Ecrã": "14,2″ Liquid Retina XDR",
+        "RAM": "16 GB",
+        "Armazenamento": "512 GB SSD",
+        "Processador": "Apple M4",
+        "Gráficos": "10-core GPU",
+        "Bateria": "72,4 Wh"
+      },
+      "specLabels": [
+        "Ecrã",
+        "RAM",
+        "Armazenamento",
+        "Processador",
+        "Gráficos",
+        "Bateria"
+      ]
+    },
+    {
+      "id": 59,
+      "name": "Samsung 55″ QLED 4K Q70",
+      "category": "Televisões",
+      "icon": "📺",
+      "spec": [
+        "55″ QLED 4K",
+        "120 Hz",
+        "HDR10+",
+        "Tizen",
+        "HDMI 2.1",
+        "Smart TV"
+      ],
+      "rating": "4,5",
+      "popularity": 91,
+      "offers": [
+        {
+          "store": "Worten",
+          "price": 699.99,
+          "stock": true,
+          "delivery": "1–2 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "FNAC",
+          "price": 724.49,
+          "stock": true,
+          "delivery": "2–3 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "PCDIGA",
+          "price": 741.99,
+          "stock": true,
+          "delivery": "2–4 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        }
+      ],
+      "brand": "Samsung",
+      "slug": "59-samsung-55-qled-4k-q70",
+      "image": null,
+      "imageAlt": "Samsung 55″ QLED 4K Q70",
+      "active": true,
+      "specifications": {
+        "Painel": "55″ QLED 4K",
+        "Resolução": "120 Hz",
+        "HDR": "HDR10+",
+        "Sistema": "Tizen",
+        "HDMI": "HDMI 2.1",
+        "Smart TV": "Smart TV"
+      },
+      "specLabels": [
+        "Painel",
+        "Resolução",
+        "HDR",
+        "Sistema",
+        "HDMI",
+        "Smart TV"
+      ]
+    },
+    {
+      "id": 60,
+      "name": "Samsung 65″ QLED 4K Q80",
+      "category": "Televisões",
+      "icon": "📺",
+      "spec": [
+        "65″ QLED 4K",
+        "120 Hz",
+        "HDR10+",
+        "Tizen",
+        "HDMI 2.1",
+        "Smart TV"
+      ],
+      "rating": "4,5",
+      "popularity": 88,
+      "offers": [
+        {
+          "store": "Worten",
+          "price": 999.99,
+          "stock": true,
+          "delivery": "1–2 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "FNAC",
+          "price": 1034.99,
+          "stock": true,
+          "delivery": "2–3 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "PCDIGA",
+          "price": 1059.99,
+          "stock": true,
+          "delivery": "2–4 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        }
+      ],
+      "brand": "Samsung",
+      "slug": "60-samsung-65-qled-4k-q80",
+      "image": null,
+      "imageAlt": "Samsung 65″ QLED 4K Q80",
+      "active": true,
+      "specifications": {
+        "Painel": "65″ QLED 4K",
+        "Resolução": "120 Hz",
+        "HDR": "HDR10+",
+        "Sistema": "Tizen",
+        "HDMI": "HDMI 2.1",
+        "Smart TV": "Smart TV"
+      },
+      "specLabels": [
+        "Painel",
+        "Resolução",
+        "HDR",
+        "Sistema",
+        "HDMI",
+        "Smart TV"
+      ]
+    },
+    {
+      "id": 61,
+      "name": "LG 55″ OLED C4 4K",
+      "category": "Televisões",
+      "icon": "📺",
+      "spec": [
+        "55″ OLED 4K",
+        "144 Hz",
+        "Dolby Vision",
+        "webOS",
+        "HDMI 2.1",
+        "Smart TV"
+      ],
+      "rating": "4,5",
+      "popularity": 95,
+      "offers": [
+        {
+          "store": "Worten",
+          "price": 1099.99,
+          "stock": true,
+          "delivery": "1–2 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "FNAC",
+          "price": 1138.49,
+          "stock": true,
+          "delivery": "2–3 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "PCDIGA",
+          "price": 1165.99,
+          "stock": true,
+          "delivery": "2–4 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        }
+      ],
+      "brand": "LG",
+      "slug": "61-lg-55-oled-c4-4k",
+      "image": null,
+      "imageAlt": "LG 55″ OLED C4 4K",
+      "active": true,
+      "specifications": {
+        "Painel": "55″ OLED 4K",
+        "Resolução": "144 Hz",
+        "HDR": "Dolby Vision",
+        "Sistema": "webOS",
+        "HDMI": "HDMI 2.1",
+        "Smart TV": "Smart TV"
+      },
+      "specLabels": [
+        "Painel",
+        "Resolução",
+        "HDR",
+        "Sistema",
+        "HDMI",
+        "Smart TV"
+      ]
+    },
+    {
+      "id": 62,
+      "name": "LG 65″ OLED C4 4K",
+      "category": "Televisões",
+      "icon": "📺",
+      "spec": [
+        "65″ OLED 4K",
+        "144 Hz",
+        "Dolby Vision",
+        "webOS",
+        "HDMI 2.1",
+        "Smart TV"
+      ],
+      "rating": "4,5",
+      "popularity": 87,
+      "offers": [
+        {
+          "store": "Worten",
+          "price": 1499.99,
+          "stock": true,
+          "delivery": "1–2 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "FNAC",
+          "price": 1552.49,
+          "stock": true,
+          "delivery": "2–3 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "PCDIGA",
+          "price": 1589.99,
+          "stock": true,
+          "delivery": "2–4 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        }
+      ],
+      "brand": "LG",
+      "slug": "62-lg-65-oled-c4-4k",
+      "image": null,
+      "imageAlt": "LG 65″ OLED C4 4K",
+      "active": true,
+      "specifications": {
+        "Painel": "65″ OLED 4K",
+        "Resolução": "144 Hz",
+        "HDR": "Dolby Vision",
+        "Sistema": "webOS",
+        "HDMI": "HDMI 2.1",
+        "Smart TV": "Smart TV"
+      },
+      "specLabels": [
+        "Painel",
+        "Resolução",
+        "HDR",
+        "Sistema",
+        "HDMI",
+        "Smart TV"
+      ]
+    },
+    {
+      "id": 63,
+      "name": "TCL 55″ Mini LED C6K",
+      "category": "Televisões",
+      "icon": "📺",
+      "spec": [
+        "55″ Mini LED 4K",
+        "144 Hz",
+        "HDR10+",
+        "Google TV",
+        "HDMI 2.1",
+        "Smart TV"
+      ],
+      "rating": "4,5",
+      "popularity": 86,
+      "offers": [
+        {
+          "store": "Worten",
+          "price": 699.99,
+          "stock": true,
+          "delivery": "1–2 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "FNAC",
+          "price": 724.49,
+          "stock": true,
+          "delivery": "2–3 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "PCDIGA",
+          "price": 741.99,
+          "stock": true,
+          "delivery": "2–4 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        }
+      ],
+      "brand": "TCL",
+      "slug": "63-tcl-55-mini-led-c6k",
+      "image": null,
+      "imageAlt": "TCL 55″ Mini LED C6K",
+      "active": true,
+      "specifications": {
+        "Painel": "55″ Mini LED 4K",
+        "Resolução": "144 Hz",
+        "HDR": "HDR10+",
+        "Sistema": "Google TV",
+        "HDMI": "HDMI 2.1",
+        "Smart TV": "Smart TV"
+      },
+      "specLabels": [
+        "Painel",
+        "Resolução",
+        "HDR",
+        "Sistema",
+        "HDMI",
+        "Smart TV"
+      ]
+    },
+    {
+      "id": 64,
+      "name": "Hisense 55″ Mini LED U7N",
+      "category": "Televisões",
+      "icon": "📺",
+      "spec": [
+        "55″ Mini LED 4K",
+        "144 Hz",
+        "Dolby Vision",
+        "VIDAA",
+        "HDMI 2.1",
+        "Smart TV"
+      ],
+      "rating": "4,5",
+      "popularity": 82,
+      "offers": [
+        {
+          "store": "Worten",
+          "price": 649.99,
+          "stock": true,
+          "delivery": "1–2 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "FNAC",
+          "price": 672.74,
+          "stock": true,
+          "delivery": "2–3 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "PCDIGA",
+          "price": 688.99,
+          "stock": true,
+          "delivery": "2–4 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        }
+      ],
+      "brand": "Hisense",
+      "slug": "64-hisense-55-mini-led-u7n",
+      "image": null,
+      "imageAlt": "Hisense 55″ Mini LED U7N",
+      "active": true,
+      "specifications": {
+        "Painel": "55″ Mini LED 4K",
+        "Resolução": "144 Hz",
+        "HDR": "Dolby Vision",
+        "Sistema": "VIDAA",
+        "HDMI": "HDMI 2.1",
+        "Smart TV": "Smart TV"
+      },
+      "specLabels": [
+        "Painel",
+        "Resolução",
+        "HDR",
+        "Sistema",
+        "HDMI",
+        "Smart TV"
+      ]
+    },
+    {
+      "id": 65,
+      "name": "PlayStation 5 Slim Digital",
+      "category": "Consolas",
+      "icon": "🎮",
+      "spec": [
+        "4K",
+        "1 TB",
+        "SSD",
+        "120 Hz",
+        "Ray Tracing",
+        "Wi‑Fi"
+      ],
+      "rating": "4,5",
+      "popularity": 98,
+      "offers": [
+        {
+          "store": "Worten",
+          "price": 449.99,
+          "stock": true,
+          "delivery": "1–2 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "FNAC",
+          "price": 465.74,
+          "stock": true,
+          "delivery": "2–3 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "PCDIGA",
+          "price": 476.99,
+          "stock": true,
+          "delivery": "2–4 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        }
+      ],
+      "brand": "PlayStation",
+      "slug": "65-playstation-5-slim-digital",
+      "image": null,
+      "imageAlt": "PlayStation 5 Slim Digital",
+      "active": true,
+      "specifications": {
+        "Resolução": "4K",
+        "Armazenamento": "SSD",
+        "Taxa de actualização": "120 Hz",
+        "Gráficos": "Ray Tracing",
+        "Conectividade": "Wi‑Fi"
+      },
+      "specLabels": [
+        "Resolução",
+        "Armazenamento",
+        "Armazenamento",
+        "Taxa de actualização",
+        "Gráficos",
+        "Conectividade"
+      ]
+    },
+    {
+      "id": 66,
+      "name": "PlayStation 5 Pro 2 TB",
+      "category": "Consolas",
+      "icon": "🎮",
+      "spec": [
+        "8K",
+        "2 TB",
+        "SSD",
+        "120 Hz",
+        "Ray Tracing avançado",
+        "Wi‑Fi 7"
+      ],
+      "rating": "4,5",
+      "popularity": 92,
+      "offers": [
+        {
+          "store": "Worten",
+          "price": 799.99,
+          "stock": true,
+          "delivery": "1–2 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "FNAC",
+          "price": 827.99,
+          "stock": true,
+          "delivery": "2–3 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "PCDIGA",
+          "price": 847.99,
+          "stock": true,
+          "delivery": "2–4 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        }
+      ],
+      "brand": "PlayStation",
+      "slug": "66-playstation-5-pro-2-tb",
+      "image": null,
+      "imageAlt": "PlayStation 5 Pro 2 TB",
+      "active": true,
+      "specifications": {
+        "Resolução": "8K",
+        "Armazenamento": "SSD",
+        "Taxa de actualização": "120 Hz",
+        "Gráficos": "Ray Tracing avançado",
+        "Conectividade": "Wi‑Fi 7"
+      },
+      "specLabels": [
+        "Resolução",
+        "Armazenamento",
+        "Armazenamento",
+        "Taxa de actualização",
+        "Gráficos",
+        "Conectividade"
+      ]
+    },
+    {
+      "id": 67,
+      "name": "Xbox Series X 1 TB",
+      "category": "Consolas",
+      "icon": "🎮",
+      "spec": [
+        "4K",
+        "1 TB",
+        "SSD",
+        "120 Hz",
+        "Ray Tracing",
+        "Wi‑Fi 5"
+      ],
+      "rating": "4,5",
+      "popularity": 91,
+      "offers": [
+        {
+          "store": "Worten",
+          "price": 549.99,
+          "stock": true,
+          "delivery": "1–2 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "FNAC",
+          "price": 569.24,
+          "stock": true,
+          "delivery": "2–3 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "PCDIGA",
+          "price": 582.99,
+          "stock": true,
+          "delivery": "2–4 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        }
+      ],
+      "brand": "Microsoft",
+      "slug": "67-xbox-series-x-1-tb",
+      "image": null,
+      "imageAlt": "Xbox Series X 1 TB",
+      "active": true,
+      "specifications": {
+        "Resolução": "4K",
+        "Armazenamento": "SSD",
+        "Taxa de actualização": "120 Hz",
+        "Gráficos": "Ray Tracing",
+        "Conectividade": "Wi‑Fi 5"
+      },
+      "specLabels": [
+        "Resolução",
+        "Armazenamento",
+        "Armazenamento",
+        "Taxa de actualização",
+        "Gráficos",
+        "Conectividade"
+      ]
+    },
+    {
+      "id": 68,
+      "name": "Nintendo Switch OLED 64 GB",
+      "category": "Consolas",
+      "icon": "🎮",
+      "spec": [
+        "7″ OLED",
+        "64 GB",
+        "Dock TV",
+        "Joy-Con",
+        "720p portátil",
+        "Wi‑Fi"
+      ],
+      "rating": "4,5",
+      "popularity": 96,
+      "offers": [
+        {
+          "store": "Worten",
+          "price": 349.99,
+          "stock": true,
+          "delivery": "1–2 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "FNAC",
+          "price": 362.24,
+          "stock": true,
+          "delivery": "2–3 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "PCDIGA",
+          "price": 370.99,
+          "stock": true,
+          "delivery": "2–4 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        }
+      ],
+      "brand": "Nintendo",
+      "slug": "68-nintendo-switch-oled-64-gb",
+      "image": null,
+      "imageAlt": "Nintendo Switch OLED 64 GB",
+      "active": true,
+      "specifications": {
+        "Resolução": "7″ OLED",
+        "Armazenamento": "Dock TV",
+        "Taxa de actualização": "Joy-Con",
+        "Gráficos": "720p portátil",
+        "Conectividade": "Wi‑Fi"
+      },
+      "specLabels": [
+        "Resolução",
+        "Armazenamento",
+        "Armazenamento",
+        "Taxa de actualização",
+        "Gráficos",
+        "Conectividade"
+      ]
+    },
+    {
+      "id": 69,
+      "name": "Xiaomi Watch S4",
+      "category": "Smartwatches",
+      "icon": "⌚",
+      "spec": [
+        "1,43″ AMOLED",
+        "2 GB",
+        "32 GB",
+        "GPS",
+        "HyperOS",
+        "486 mAh"
+      ],
+      "rating": "4,5",
+      "popularity": 89,
+      "offers": [
+        {
+          "store": "Worten",
+          "price": 159.99,
+          "stock": true,
+          "delivery": "1–2 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "FNAC",
+          "price": 165.59,
+          "stock": true,
+          "delivery": "2–3 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "PCDIGA",
+          "price": 169.59,
+          "stock": true,
+          "delivery": "2–4 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        }
+      ],
+      "brand": "Xiaomi",
+      "slug": "69-xiaomi-watch-s4",
+      "image": null,
+      "imageAlt": "Xiaomi Watch S4",
+      "active": true,
+      "specifications": {
+        "Ecrã": "1,43″ AMOLED",
+        "RAM": "2 GB",
+        "Armazenamento": "32 GB",
+        "GPS": "GPS",
+        "Sistema": "HyperOS",
+        "Bateria": "486 mAh"
+      },
+      "specLabels": [
+        "Ecrã",
+        "RAM",
+        "Armazenamento",
+        "GPS",
+        "Sistema",
+        "Bateria"
+      ]
+    },
+    {
+      "id": 70,
+      "name": "Samsung Galaxy Watch7 44 mm",
+      "category": "Smartwatches",
+      "icon": "⌚",
+      "spec": [
+        "1,5″ AMOLED",
+        "2 GB",
+        "32 GB",
+        "GPS",
+        "Wear OS",
+        "425 mAh"
+      ],
+      "rating": "4,5",
+      "popularity": 93,
+      "offers": [
+        {
+          "store": "Worten",
+          "price": 249.99,
+          "stock": true,
+          "delivery": "1–2 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "FNAC",
+          "price": 258.74,
+          "stock": true,
+          "delivery": "2–3 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "PCDIGA",
+          "price": 264.99,
+          "stock": true,
+          "delivery": "2–4 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        }
+      ],
+      "brand": "Samsung",
+      "slug": "70-samsung-galaxy-watch7-44-mm",
+      "image": null,
+      "imageAlt": "Samsung Galaxy Watch7 44 mm",
+      "active": true,
+      "specifications": {
+        "Ecrã": "1,5″ AMOLED",
+        "RAM": "2 GB",
+        "Armazenamento": "32 GB",
+        "GPS": "GPS",
+        "Sistema": "Wear OS",
+        "Bateria": "425 mAh"
+      },
+      "specLabels": [
+        "Ecrã",
+        "RAM",
+        "Armazenamento",
+        "GPS",
+        "Sistema",
+        "Bateria"
+      ]
+    },
+    {
+      "id": 71,
+      "name": "Samsung Galaxy Watch Ultra",
+      "category": "Smartwatches",
+      "icon": "⌚",
+      "spec": [
+        "1,5″ AMOLED",
+        "2 GB",
+        "32 GB",
+        "GPS",
+        "Wear OS",
+        "590 mAh"
+      ],
+      "rating": "4,5",
+      "popularity": 84,
+      "offers": [
+        {
+          "store": "Worten",
+          "price": 449.99,
+          "stock": true,
+          "delivery": "1–2 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "FNAC",
+          "price": 465.74,
+          "stock": true,
+          "delivery": "2–3 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "PCDIGA",
+          "price": 476.99,
+          "stock": true,
+          "delivery": "2–4 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        }
+      ],
+      "brand": "Samsung",
+      "slug": "71-samsung-galaxy-watch-ultra",
+      "image": null,
+      "imageAlt": "Samsung Galaxy Watch Ultra",
+      "active": true,
+      "specifications": {
+        "Ecrã": "1,5″ AMOLED",
+        "RAM": "2 GB",
+        "Armazenamento": "32 GB",
+        "GPS": "GPS",
+        "Sistema": "Wear OS",
+        "Bateria": "590 mAh"
+      },
+      "specLabels": [
+        "Ecrã",
+        "RAM",
+        "Armazenamento",
+        "GPS",
+        "Sistema",
+        "Bateria"
+      ]
+    },
+    {
+      "id": 72,
+      "name": "Apple Watch SE 2 GPS 44 mm",
+      "category": "Smartwatches",
+      "icon": "⌚",
+      "spec": [
+        "1,78″ OLED",
+        "32 GB",
+        "GPS",
+        "watchOS",
+        "Retina",
+        "296 mAh"
+      ],
+      "rating": "4,5",
+      "popularity": 95,
+      "offers": [
+        {
+          "store": "Worten",
+          "price": 249.99,
+          "stock": true,
+          "delivery": "1–2 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "FNAC",
+          "price": 258.74,
+          "stock": true,
+          "delivery": "2–3 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "PCDIGA",
+          "price": 264.99,
+          "stock": true,
+          "delivery": "2–4 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        }
+      ],
+      "brand": "Apple",
+      "slug": "72-apple-watch-se-2-gps-44-mm",
+      "image": null,
+      "imageAlt": "Apple Watch SE 2 GPS 44 mm",
+      "active": true,
+      "specifications": {
+        "Ecrã": "1,78″ OLED",
+        "RAM": "32 GB",
+        "Armazenamento": "GPS",
+        "GPS": "watchOS",
+        "Sistema": "Retina",
+        "Bateria": "296 mAh"
+      },
+      "specLabels": [
+        "Ecrã",
+        "RAM",
+        "Armazenamento",
+        "GPS",
+        "Sistema",
+        "Bateria"
+      ]
+    },
+    {
+      "id": 73,
+      "name": "Apple Watch Series 10 46 mm",
+      "category": "Smartwatches",
+      "icon": "⌚",
+      "spec": [
+        "1,96″ OLED",
+        "64 GB",
+        "GPS",
+        "watchOS",
+        "Always-On",
+        "327 mAh"
+      ],
+      "rating": "4,5",
+      "popularity": 92,
+      "offers": [
+        {
+          "store": "Worten",
+          "price": 449.99,
+          "stock": true,
+          "delivery": "1–2 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "FNAC",
+          "price": 465.74,
+          "stock": true,
+          "delivery": "2–3 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "PCDIGA",
+          "price": 476.99,
+          "stock": true,
+          "delivery": "2–4 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        }
+      ],
+      "brand": "Apple",
+      "slug": "73-apple-watch-series-10-46-mm",
+      "image": null,
+      "imageAlt": "Apple Watch Series 10 46 mm",
+      "active": true,
+      "specifications": {
+        "Ecrã": "1,96″ OLED",
+        "RAM": "64 GB",
+        "Armazenamento": "GPS",
+        "GPS": "watchOS",
+        "Sistema": "Always-On",
+        "Bateria": "327 mAh"
+      },
+      "specLabels": [
+        "Ecrã",
+        "RAM",
+        "Armazenamento",
+        "GPS",
+        "Sistema",
+        "Bateria"
+      ]
+    },
+    {
+      "id": 74,
+      "name": "Sony WH-1000XM6",
+      "category": "Áudio",
+      "icon": "🎧",
+      "spec": [
+        "ANC",
+        "30 h",
+        "Bluetooth",
+        "Microfones",
+        "USB-C",
+        "Multiponto"
+      ],
+      "rating": "4,5",
+      "popularity": 94,
+      "offers": [
+        {
+          "store": "Worten",
+          "price": 399.99,
+          "stock": true,
+          "delivery": "1–2 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "FNAC",
+          "price": 413.99,
+          "stock": true,
+          "delivery": "2–3 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "PCDIGA",
+          "price": 423.99,
+          "stock": true,
+          "delivery": "2–4 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        }
+      ],
+      "brand": "Sony",
+      "slug": "74-sony-wh-1000xm6",
+      "image": null,
+      "imageAlt": "Sony WH-1000XM6",
+      "active": true,
+      "specifications": {
+        "Tecnologia": "ANC",
+        "Autonomia": "30 h",
+        "Bluetooth": "Bluetooth",
+        "Microfones": "Microfones",
+        "Ligação": "USB-C",
+        "Multiponto": "Multiponto"
+      },
+      "specLabels": [
+        "Tecnologia",
+        "Autonomia",
+        "Bluetooth",
+        "Microfones",
+        "Ligação",
+        "Multiponto"
+      ]
+    },
+    {
+      "id": 75,
+      "name": "Apple AirPods Pro 2 USB-C",
+      "category": "Áudio",
+      "icon": "🎧",
+      "spec": [
+        "ANC",
+        "6 h",
+        "Bluetooth",
+        "Microfones",
+        "USB-C",
+        "MagSafe"
+      ],
+      "rating": "4,5",
+      "popularity": 97,
+      "offers": [
+        {
+          "store": "Worten",
+          "price": 249.99,
+          "stock": true,
+          "delivery": "1–2 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "FNAC",
+          "price": 258.74,
+          "stock": true,
+          "delivery": "2–3 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "PCDIGA",
+          "price": 264.99,
+          "stock": true,
+          "delivery": "2–4 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        }
+      ],
+      "brand": "Apple",
+      "slug": "75-apple-airpods-pro-2-usb-c",
+      "image": null,
+      "imageAlt": "Apple AirPods Pro 2 USB-C",
+      "active": true,
+      "specifications": {
+        "Tecnologia": "ANC",
+        "Autonomia": "6 h",
+        "Bluetooth": "Bluetooth",
+        "Microfones": "Microfones",
+        "Ligação": "USB-C",
+        "Multiponto": "MagSafe"
+      },
+      "specLabels": [
+        "Tecnologia",
+        "Autonomia",
+        "Bluetooth",
+        "Microfones",
+        "Ligação",
+        "Multiponto"
+      ]
+    },
+    {
+      "id": 76,
+      "name": "Samsung Galaxy Buds3 Pro",
+      "category": "Áudio",
+      "icon": "🎧",
+      "spec": [
+        "ANC",
+        "7 h",
+        "Bluetooth",
+        "Microfones",
+        "USB-C",
+        "Hi-Fi"
+      ],
+      "rating": "4,5",
+      "popularity": 90,
+      "offers": [
+        {
+          "store": "Worten",
+          "price": 229.99,
+          "stock": true,
+          "delivery": "1–2 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "FNAC",
+          "price": 238.04,
+          "stock": true,
+          "delivery": "2–3 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        },
+        {
+          "store": "PCDIGA",
+          "price": 243.79,
+          "stock": true,
+          "delivery": "2–4 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração",
+          "verifiedAt": null,
+          "currency": "EUR",
+          "stockStatus": "in-stock"
+        }
+      ],
+      "brand": "Samsung",
+      "slug": "76-samsung-galaxy-buds3-pro",
+      "image": null,
+      "imageAlt": "Samsung Galaxy Buds3 Pro",
+      "active": true,
+      "specifications": {
+        "Tecnologia": "ANC",
+        "Autonomia": "7 h",
+        "Bluetooth": "Bluetooth",
+        "Microfones": "Microfones",
+        "Ligação": "USB-C",
+        "Multiponto": "Hi-Fi"
+      },
+      "specLabels": [
+        "Tecnologia",
+        "Autonomia",
+        "Bluetooth",
+        "Microfones",
+        "Ligação",
+        "Multiponto"
+      ]
+    }
+  ]
+}
