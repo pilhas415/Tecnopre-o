@@ -249,7 +249,7 @@
       ],
       "brand": "Samsung",
       "slug": "1-samsung-galaxy-a56-5g-128-gb",
-      "image": null,
+      "image": "assets/products/phone-samsung.svg",
       "imageAlt": "Samsung Galaxy A56 5G 128 GB",
       "active": true,
       "specifications": {
@@ -267,6 +267,9 @@
         "Rede",
         "Câmara",
         "Bateria"
+      ],
+      "gallery": [
+        "assets/products/phone-samsung.svg"
       ]
     },
     {
@@ -311,7 +314,7 @@
       ],
       "brand": "Samsung",
       "slug": "2-samsung-galaxy-a36-5g-128-gb",
-      "image": null,
+      "image": "assets/products/phone-samsung.svg",
       "imageAlt": "Samsung Galaxy A36 5G 128 GB",
       "active": true,
       "specifications": {
@@ -329,6 +332,9 @@
         "Rede",
         "Câmara",
         "Bateria"
+      ],
+      "gallery": [
+        "assets/products/phone-samsung.svg"
       ]
     },
     {
@@ -373,7 +379,7 @@
       ],
       "brand": "Samsung",
       "slug": "3-samsung-galaxy-s24-fe-256-gb",
-      "image": null,
+      "image": "assets/products/phone-samsung.svg",
       "imageAlt": "Samsung Galaxy S24 FE 256 GB",
       "active": true,
       "specifications": {
@@ -391,6 +397,9 @@
         "Rede",
         "Câmara",
         "Bateria"
+      ],
+      "gallery": [
+        "assets/products/phone-samsung.svg"
       ]
     },
     {
@@ -423,7 +432,7 @@
       ],
       "brand": "Samsung",
       "slug": "4-samsung-galaxy-s24-fe-128-gb",
-      "image": null,
+      "image": "assets/products/phone-samsung.svg",
       "imageAlt": "Samsung Galaxy S24 FE 128 GB",
       "active": true,
       "specifications": {
@@ -441,6 +450,9 @@
         "Rede",
         "Câmara",
         "Bateria"
+      ],
+      "gallery": [
+        "assets/products/phone-samsung.svg"
       ]
     },
     {
@@ -497,7 +509,7 @@
       ],
       "brand": "Lenovo",
       "slug": "5-lenovo-ideapad-slim-3",
-      "image": null,
+      "image": "assets/products/laptop.svg",
       "imageAlt": "Lenovo IdeaPad Slim 3",
       "active": true,
       "specifications": {
@@ -515,6 +527,9 @@
         "Processador",
         "Gráficos",
         "Bateria"
+      ],
+      "gallery": [
+        "assets/products/laptop.svg"
       ]
     },
     {
@@ -571,7 +586,7 @@
       ],
       "brand": "Xiaomi",
       "slug": "6-xiaomi-watch-2",
-      "image": null,
+      "image": "assets/products/watch.svg",
       "imageAlt": "Xiaomi Watch 2",
       "active": true,
       "specifications": {
@@ -589,6 +604,9 @@
         "GPS",
         "Sistema",
         "Bateria"
+      ],
+      "gallery": [
+        "assets/products/watch.svg"
       ]
     },
     {
@@ -645,7 +663,7 @@
       ],
       "brand": "Sony",
       "slug": "7-sony-wh-1000xm5",
-      "image": null,
+      "image": "assets/products/audio.svg",
       "imageAlt": "Sony WH-1000XM5",
       "active": true,
       "specifications": {
@@ -663,6 +681,9 @@
         "Microfones",
         "Ligação",
         "Multiponto"
+      ],
+      "gallery": [
+        "assets/products/audio.svg"
       ]
     },
     {
@@ -719,7 +740,7 @@
       ],
       "brand": "PlayStation",
       "slug": "8-playstation-5-slim",
-      "image": null,
+      "image": "assets/products/gaming.svg",
       "imageAlt": "PlayStation 5 Slim",
       "active": true,
       "specifications": {
@@ -736,6 +757,9 @@
         "Taxa de actualização",
         "Gráficos",
         "Conectividade"
+      ],
+      "gallery": [
+        "assets/products/gaming.svg"
       ]
     },
     {
@@ -769,7 +793,7 @@
       ],
       "brand": "Xiaomi",
       "slug": "9-xiaomi-redmi-note-14-5g-6-128-gb",
-      "image": null,
+      "image": "assets/products/phone-xiaomi.svg",
       "imageAlt": "Xiaomi Redmi Note 14 5G 6/128 GB",
       "active": true,
       "specifications": {
@@ -787,6 +811,9 @@
         "Rede",
         "Câmara",
         "Bateria"
+      ],
+      "gallery": [
+        "assets/products/phone-xiaomi.svg"
       ]
     },
     {
@@ -833,7 +860,7 @@
       ],
       "brand": "Xiaomi",
       "slug": "10-xiaomi-redmi-note-14-pro-5g-8-256-gb",
-      "image": null,
+      "image": "assets/products/phone-xiaomi.svg",
       "imageAlt": "Xiaomi Redmi Note 14 Pro 5G 8/256 GB",
       "active": true,
       "specifications": {
@@ -851,6 +878,9 @@
         "Rede",
         "Câmara",
         "Bateria"
+      ],
+      "gallery": [
+        "assets/products/phone-xiaomi.svg"
       ]
     },
     {
@@ -884,7 +914,7 @@
       ],
       "brand": "Xiaomi",
       "slug": "11-xiaomi-poco-x7-pro-5g-12-512-gb",
-      "image": null,
+      "image": "assets/products/phone-xiaomi.svg",
       "imageAlt": "Xiaomi POCO X7 Pro 5G 12/512 GB",
       "active": true,
       "specifications": {
@@ -902,6 +932,9 @@
         "Rede",
         "Câmara",
         "Bateria"
+      ],
+      "gallery": [
+        "assets/products/phone-xiaomi.svg"
       ]
     },
     {
@@ -959,7 +992,7 @@
       ],
       "brand": "Xiaomi",
       "slug": "12-xiaomi-redmi-note-14-4g-8-256-gb",
-      "image": null,
+      "image": "assets/products/phone-xiaomi.svg",
       "imageAlt": "Xiaomi Redmi Note 14 4G 8/256 GB",
       "active": true,
       "specifications": {
@@ -977,6 +1010,9 @@
         "Rede",
         "Câmara",
         "Bateria"
+      ],
+      "gallery": [
+        "assets/products/phone-xiaomi.svg"
       ]
     },
     {
@@ -1034,7 +1070,7 @@
       ],
       "brand": "Xiaomi",
       "slug": "13-xiaomi-redmi-note-14-5g-8-256-gb",
-      "image": null,
+      "image": "assets/products/phone-xiaomi.svg",
       "imageAlt": "Xiaomi Redmi Note 14 5G 8/256 GB",
       "active": true,
       "specifications": {
@@ -1052,6 +1088,9 @@
         "Rede",
         "Câmara",
         "Bateria"
+      ],
+      "gallery": [
+        "assets/products/phone-xiaomi.svg"
       ]
     },
     {
@@ -1109,7 +1148,7 @@
       ],
       "brand": "Xiaomi",
       "slug": "14-xiaomi-redmi-note-14-pro-4g-8-256-gb",
-      "image": null,
+      "image": "assets/products/phone-xiaomi.svg",
       "imageAlt": "Xiaomi Redmi Note 14 Pro 4G 8/256 GB",
       "active": true,
       "specifications": {
@@ -1127,6 +1166,9 @@
         "Rede",
         "Câmara",
         "Bateria"
+      ],
+      "gallery": [
+        "assets/products/phone-xiaomi.svg"
       ]
     },
     {
@@ -1184,7 +1226,7 @@
       ],
       "brand": "Xiaomi",
       "slug": "15-xiaomi-redmi-note-14-pro-5g-8-256-gb",
-      "image": null,
+      "image": "assets/products/phone-xiaomi.svg",
       "imageAlt": "Xiaomi Redmi Note 14 Pro+ 5G 8/256 GB",
       "active": true,
       "specifications": {
@@ -1202,6 +1244,9 @@
         "Rede",
         "Câmara",
         "Bateria"
+      ],
+      "gallery": [
+        "assets/products/phone-xiaomi.svg"
       ]
     },
     {
@@ -1259,7 +1304,7 @@
       ],
       "brand": "Xiaomi",
       "slug": "16-xiaomi-redmi-note-14-pro-5g-12-512-gb",
-      "image": null,
+      "image": "assets/products/phone-xiaomi.svg",
       "imageAlt": "Xiaomi Redmi Note 14 Pro+ 5G 12/512 GB",
       "active": true,
       "specifications": {
@@ -1277,6 +1322,9 @@
         "Rede",
         "Câmara",
         "Bateria"
+      ],
+      "gallery": [
+        "assets/products/phone-xiaomi.svg"
       ]
     },
     {
@@ -1334,7 +1382,7 @@
       ],
       "brand": "Xiaomi",
       "slug": "17-xiaomi-poco-x7-5g-8-256-gb",
-      "image": null,
+      "image": "assets/products/phone-xiaomi.svg",
       "imageAlt": "Xiaomi POCO X7 5G 8/256 GB",
       "active": true,
       "specifications": {
@@ -1352,6 +1400,9 @@
         "Rede",
         "Câmara",
         "Bateria"
+      ],
+      "gallery": [
+        "assets/products/phone-xiaomi.svg"
       ]
     },
     {
@@ -1409,7 +1460,7 @@
       ],
       "brand": "Xiaomi",
       "slug": "18-xiaomi-poco-x7-pro-5g-8-256-gb",
-      "image": null,
+      "image": "assets/products/phone-xiaomi.svg",
       "imageAlt": "Xiaomi POCO X7 Pro 5G 8/256 GB",
       "active": true,
       "specifications": {
@@ -1427,6 +1478,9 @@
         "Rede",
         "Câmara",
         "Bateria"
+      ],
+      "gallery": [
+        "assets/products/phone-xiaomi.svg"
       ]
     },
     {
@@ -1484,7 +1538,7 @@
       ],
       "brand": "Xiaomi",
       "slug": "19-xiaomi-poco-f6-5g-12-512-gb",
-      "image": null,
+      "image": "assets/products/phone-xiaomi.svg",
       "imageAlt": "Xiaomi POCO F6 5G 12/512 GB",
       "active": true,
       "specifications": {
@@ -1502,6 +1556,9 @@
         "Rede",
         "Câmara",
         "Bateria"
+      ],
+      "gallery": [
+        "assets/products/phone-xiaomi.svg"
       ]
     },
     {
@@ -1559,7 +1616,7 @@
       ],
       "brand": "Xiaomi",
       "slug": "20-xiaomi-14t-5g-12-256-gb",
-      "image": null,
+      "image": "assets/products/phone-xiaomi.svg",
       "imageAlt": "Xiaomi 14T 5G 12/256 GB",
       "active": true,
       "specifications": {
@@ -1577,6 +1634,9 @@
         "Rede",
         "Câmara",
         "Bateria"
+      ],
+      "gallery": [
+        "assets/products/phone-xiaomi.svg"
       ]
     },
     {
@@ -1634,7 +1694,7 @@
       ],
       "brand": "Xiaomi",
       "slug": "21-xiaomi-14t-pro-5g-12-512-gb",
-      "image": null,
+      "image": "assets/products/phone-xiaomi.svg",
       "imageAlt": "Xiaomi 14T Pro 5G 12/512 GB",
       "active": true,
       "specifications": {
@@ -1652,6 +1712,9 @@
         "Rede",
         "Câmara",
         "Bateria"
+      ],
+      "gallery": [
+        "assets/products/phone-xiaomi.svg"
       ]
     },
     {
@@ -1709,7 +1772,7 @@
       ],
       "brand": "Xiaomi",
       "slug": "22-xiaomi-15-5g-12-256-gb",
-      "image": null,
+      "image": "assets/products/phone-xiaomi.svg",
       "imageAlt": "Xiaomi 15 5G 12/256 GB",
       "active": true,
       "specifications": {
@@ -1727,6 +1790,9 @@
         "Rede",
         "Câmara",
         "Bateria"
+      ],
+      "gallery": [
+        "assets/products/phone-xiaomi.svg"
       ]
     },
     {
@@ -1784,7 +1850,7 @@
       ],
       "brand": "Xiaomi",
       "slug": "23-xiaomi-15-ultra-5g-16-512-gb",
-      "image": null,
+      "image": "assets/products/phone-xiaomi.svg",
       "imageAlt": "Xiaomi 15 Ultra 5G 16/512 GB",
       "active": true,
       "specifications": {
@@ -1802,6 +1868,9 @@
         "Rede",
         "Câmara",
         "Bateria"
+      ],
+      "gallery": [
+        "assets/products/phone-xiaomi.svg"
       ]
     },
     {
@@ -1859,7 +1928,7 @@
       ],
       "brand": "Samsung",
       "slug": "24-samsung-galaxy-a16-5g-4-128-gb",
-      "image": null,
+      "image": "assets/products/phone-samsung.svg",
       "imageAlt": "Samsung Galaxy A16 5G 4/128 GB",
       "active": true,
       "specifications": {
@@ -1877,6 +1946,9 @@
         "Rede",
         "Câmara",
         "Bateria"
+      ],
+      "gallery": [
+        "assets/products/phone-samsung.svg"
       ]
     },
     {
@@ -1934,7 +2006,7 @@
       ],
       "brand": "Samsung",
       "slug": "25-samsung-galaxy-a26-5g-6-128-gb",
-      "image": null,
+      "image": "assets/products/phone-samsung.svg",
       "imageAlt": "Samsung Galaxy A26 5G 6/128 GB",
       "active": true,
       "specifications": {
@@ -1952,6 +2024,9 @@
         "Rede",
         "Câmara",
         "Bateria"
+      ],
+      "gallery": [
+        "assets/products/phone-samsung.svg"
       ]
     },
     {
@@ -2009,7 +2084,7 @@
       ],
       "brand": "Samsung",
       "slug": "26-samsung-galaxy-a36-5g-8-256-gb",
-      "image": null,
+      "image": "assets/products/phone-samsung.svg",
       "imageAlt": "Samsung Galaxy A36 5G 8/256 GB",
       "active": true,
       "specifications": {
@@ -2027,6 +2102,9 @@
         "Rede",
         "Câmara",
         "Bateria"
+      ],
+      "gallery": [
+        "assets/products/phone-samsung.svg"
       ]
     },
     {
@@ -2084,7 +2162,7 @@
       ],
       "brand": "Samsung",
       "slug": "27-samsung-galaxy-a56-5g-8-256-gb",
-      "image": null,
+      "image": "assets/products/phone-samsung.svg",
       "imageAlt": "Samsung Galaxy A56 5G 8/256 GB",
       "active": true,
       "specifications": {
@@ -2102,6 +2180,9 @@
         "Rede",
         "Câmara",
         "Bateria"
+      ],
+      "gallery": [
+        "assets/products/phone-samsung.svg"
       ]
     },
     {
@@ -2159,7 +2240,7 @@
       ],
       "brand": "Samsung",
       "slug": "28-samsung-galaxy-s24-5g-8-256-gb",
-      "image": null,
+      "image": "assets/products/phone-samsung.svg",
       "imageAlt": "Samsung Galaxy S24 5G 8/256 GB",
       "active": true,
       "specifications": {
@@ -2177,6 +2258,9 @@
         "Rede",
         "Câmara",
         "Bateria"
+      ],
+      "gallery": [
+        "assets/products/phone-samsung.svg"
       ]
     },
     {
@@ -2234,7 +2318,7 @@
       ],
       "brand": "Samsung",
       "slug": "29-samsung-galaxy-s24-ultra-5g-12-512-gb",
-      "image": null,
+      "image": "assets/products/phone-samsung.svg",
       "imageAlt": "Samsung Galaxy S24 Ultra 5G 12/512 GB",
       "active": true,
       "specifications": {
@@ -2252,6 +2336,9 @@
         "Rede",
         "Câmara",
         "Bateria"
+      ],
+      "gallery": [
+        "assets/products/phone-samsung.svg"
       ]
     },
     {
@@ -2309,7 +2396,7 @@
       ],
       "brand": "Samsung",
       "slug": "30-samsung-galaxy-s25-5g-12-256-gb",
-      "image": null,
+      "image": "assets/products/phone-samsung.svg",
       "imageAlt": "Samsung Galaxy S25 5G 12/256 GB",
       "active": true,
       "specifications": {
@@ -2327,6 +2414,9 @@
         "Rede",
         "Câmara",
         "Bateria"
+      ],
+      "gallery": [
+        "assets/products/phone-samsung.svg"
       ]
     },
     {
@@ -2384,7 +2474,7 @@
       ],
       "brand": "Samsung",
       "slug": "31-samsung-galaxy-s25-ultra-5g-12-512-gb",
-      "image": null,
+      "image": "assets/products/phone-samsung.svg",
       "imageAlt": "Samsung Galaxy S25 Ultra 5G 12/512 GB",
       "active": true,
       "specifications": {
@@ -2402,6 +2492,9 @@
         "Rede",
         "Câmara",
         "Bateria"
+      ],
+      "gallery": [
+        "assets/products/phone-samsung.svg"
       ]
     },
     {
@@ -2459,7 +2552,7 @@
       ],
       "brand": "Apple",
       "slug": "32-apple-iphone-13-128-gb",
-      "image": null,
+      "image": "assets/products/phone-apple.svg",
       "imageAlt": "Apple iPhone 13 128 GB",
       "active": true,
       "specifications": {
@@ -2477,6 +2570,9 @@
         "Rede",
         "Câmara",
         "Bateria"
+      ],
+      "gallery": [
+        "assets/products/phone-apple.svg"
       ]
     },
     {
@@ -2534,7 +2630,7 @@
       ],
       "brand": "Apple",
       "slug": "33-apple-iphone-14-128-gb",
-      "image": null,
+      "image": "assets/products/phone-apple.svg",
       "imageAlt": "Apple iPhone 14 128 GB",
       "active": true,
       "specifications": {
@@ -2552,6 +2648,9 @@
         "Rede",
         "Câmara",
         "Bateria"
+      ],
+      "gallery": [
+        "assets/products/phone-apple.svg"
       ]
     },
     {
@@ -2609,7 +2708,7 @@
       ],
       "brand": "Apple",
       "slug": "34-apple-iphone-15-128-gb",
-      "image": null,
+      "image": "assets/products/phone-apple.svg",
       "imageAlt": "Apple iPhone 15 128 GB",
       "active": true,
       "specifications": {
@@ -2627,6 +2726,9 @@
         "Rede",
         "Câmara",
         "Bateria"
+      ],
+      "gallery": [
+        "assets/products/phone-apple.svg"
       ]
     },
     {
@@ -2684,7 +2786,7 @@
       ],
       "brand": "Apple",
       "slug": "35-apple-iphone-15-pro-256-gb",
-      "image": null,
+      "image": "assets/products/phone-apple.svg",
       "imageAlt": "Apple iPhone 15 Pro 256 GB",
       "active": true,
       "specifications": {
@@ -2702,6 +2804,9 @@
         "Rede",
         "Câmara",
         "Bateria"
+      ],
+      "gallery": [
+        "assets/products/phone-apple.svg"
       ]
     },
     {
@@ -2759,7 +2864,7 @@
       ],
       "brand": "Apple",
       "slug": "36-apple-iphone-16-128-gb",
-      "image": null,
+      "image": "assets/products/phone-apple.svg",
       "imageAlt": "Apple iPhone 16 128 GB",
       "active": true,
       "specifications": {
@@ -2777,6 +2882,9 @@
         "Rede",
         "Câmara",
         "Bateria"
+      ],
+      "gallery": [
+        "assets/products/phone-apple.svg"
       ]
     },
     {
@@ -2834,7 +2942,7 @@
       ],
       "brand": "Apple",
       "slug": "37-apple-iphone-16-pro-256-gb",
-      "image": null,
+      "image": "assets/products/phone-apple.svg",
       "imageAlt": "Apple iPhone 16 Pro 256 GB",
       "active": true,
       "specifications": {
@@ -2852,6 +2960,9 @@
         "Rede",
         "Câmara",
         "Bateria"
+      ],
+      "gallery": [
+        "assets/products/phone-apple.svg"
       ]
     },
     {
@@ -2909,7 +3020,7 @@
       ],
       "brand": "Apple",
       "slug": "38-apple-iphone-16-pro-max-256-gb",
-      "image": null,
+      "image": "assets/products/phone-apple.svg",
       "imageAlt": "Apple iPhone 16 Pro Max 256 GB",
       "active": true,
       "specifications": {
@@ -2927,6 +3038,9 @@
         "Rede",
         "Câmara",
         "Bateria"
+      ],
+      "gallery": [
+        "assets/products/phone-apple.svg"
       ]
     },
     {
@@ -2984,7 +3098,7 @@
       ],
       "brand": "Xiaomi",
       "slug": "39-xiaomi-redmi-pad-se-8-256-gb",
-      "image": null,
+      "image": "assets/products/tablet.svg",
       "imageAlt": "Xiaomi Redmi Pad SE 8/256 GB",
       "active": true,
       "specifications": {
@@ -3002,6 +3116,9 @@
         "Rede",
         "Câmaras",
         "Bateria"
+      ],
+      "gallery": [
+        "assets/products/tablet.svg"
       ]
     },
     {
@@ -3059,7 +3176,7 @@
       ],
       "brand": "Xiaomi",
       "slug": "40-xiaomi-pad-7-8-256-gb",
-      "image": null,
+      "image": "assets/products/tablet.svg",
       "imageAlt": "Xiaomi Pad 7 8/256 GB",
       "active": true,
       "specifications": {
@@ -3077,6 +3194,9 @@
         "Rede",
         "Câmaras",
         "Bateria"
+      ],
+      "gallery": [
+        "assets/products/tablet.svg"
       ]
     },
     {
@@ -3134,7 +3254,7 @@
       ],
       "brand": "Samsung",
       "slug": "41-samsung-galaxy-tab-a9-8-128-gb",
-      "image": null,
+      "image": "assets/products/tablet.svg",
       "imageAlt": "Samsung Galaxy Tab A9+ 8/128 GB",
       "active": true,
       "specifications": {
@@ -3152,6 +3272,9 @@
         "Rede",
         "Câmaras",
         "Bateria"
+      ],
+      "gallery": [
+        "assets/products/tablet.svg"
       ]
     },
     {
@@ -3209,7 +3332,7 @@
       ],
       "brand": "Samsung",
       "slug": "42-samsung-galaxy-tab-s9-fe-6-128-gb",
-      "image": null,
+      "image": "assets/products/tablet.svg",
       "imageAlt": "Samsung Galaxy Tab S9 FE 6/128 GB",
       "active": true,
       "specifications": {
@@ -3227,6 +3350,9 @@
         "Rede",
         "Câmaras",
         "Bateria"
+      ],
+      "gallery": [
+        "assets/products/tablet.svg"
       ]
     },
     {
@@ -3284,7 +3410,7 @@
       ],
       "brand": "Samsung",
       "slug": "43-samsung-galaxy-tab-s10-fe-8-128-gb",
-      "image": null,
+      "image": "assets/products/tablet.svg",
       "imageAlt": "Samsung Galaxy Tab S10 FE 8/128 GB",
       "active": true,
       "specifications": {
@@ -3302,6 +3428,9 @@
         "Rede",
         "Câmaras",
         "Bateria"
+      ],
+      "gallery": [
+        "assets/products/tablet.svg"
       ]
     },
     {
@@ -3359,7 +3488,7 @@
       ],
       "brand": "Apple",
       "slug": "44-apple-ipad-10-9-64-gb",
-      "image": null,
+      "image": "assets/products/tablet.svg",
       "imageAlt": "Apple iPad 10.9 64 GB",
       "active": true,
       "specifications": {
@@ -3377,6 +3506,9 @@
         "Rede",
         "Câmaras",
         "Bateria"
+      ],
+      "gallery": [
+        "assets/products/tablet.svg"
       ]
     },
     {
@@ -3434,7 +3566,7 @@
       ],
       "brand": "Apple",
       "slug": "45-apple-ipad-air-11-128-gb",
-      "image": null,
+      "image": "assets/products/tablet.svg",
       "imageAlt": "Apple iPad Air 11 128 GB",
       "active": true,
       "specifications": {
@@ -3452,6 +3584,9 @@
         "Rede",
         "Câmaras",
         "Bateria"
+      ],
+      "gallery": [
+        "assets/products/tablet.svg"
       ]
     },
     {
@@ -3509,7 +3644,7 @@
       ],
       "brand": "Apple",
       "slug": "46-apple-ipad-pro-11-256-gb",
-      "image": null,
+      "image": "assets/products/tablet.svg",
       "imageAlt": "Apple iPad Pro 11 256 GB",
       "active": true,
       "specifications": {
@@ -3527,6 +3662,9 @@
         "Rede",
         "Câmaras",
         "Bateria"
+      ],
+      "gallery": [
+        "assets/products/tablet.svg"
       ]
     },
     {
@@ -3584,7 +3722,7 @@
       ],
       "brand": "Lenovo",
       "slug": "47-lenovo-ideapad-1-ryzen-5-16-512-gb",
-      "image": null,
+      "image": "assets/products/laptop.svg",
       "imageAlt": "Lenovo IdeaPad 1 Ryzen 5 16/512 GB",
       "active": true,
       "specifications": {
@@ -3602,6 +3740,9 @@
         "Processador",
         "Gráficos",
         "Bateria"
+      ],
+      "gallery": [
+        "assets/products/laptop.svg"
       ]
     },
     {
@@ -3659,7 +3800,7 @@
       ],
       "brand": "Lenovo",
       "slug": "48-lenovo-ideapad-slim-3-ryzen-7-16-512-gb",
-      "image": null,
+      "image": "assets/products/laptop.svg",
       "imageAlt": "Lenovo IdeaPad Slim 3 Ryzen 7 16/512 GB",
       "active": true,
       "specifications": {
@@ -3677,6 +3818,9 @@
         "Processador",
         "Gráficos",
         "Bateria"
+      ],
+      "gallery": [
+        "assets/products/laptop.svg"
       ]
     },
     {
@@ -3734,7 +3878,7 @@
       ],
       "brand": "Lenovo",
       "slug": "49-lenovo-loq-15-rtx-4050-16-512-gb",
-      "image": null,
+      "image": "assets/products/laptop.svg",
       "imageAlt": "Lenovo LOQ 15 RTX 4050 16/512 GB",
       "active": true,
       "specifications": {
@@ -3752,6 +3896,9 @@
         "Processador",
         "Gráficos",
         "Bateria"
+      ],
+      "gallery": [
+        "assets/products/laptop.svg"
       ]
     },
     {
@@ -3809,7 +3956,7 @@
       ],
       "brand": "ASUS",
       "slug": "50-asus-vivobook-15-ryzen-7-16-512-gb",
-      "image": null,
+      "image": "assets/products/laptop.svg",
       "imageAlt": "ASUS Vivobook 15 Ryzen 7 16/512 GB",
       "active": true,
       "specifications": {
@@ -3827,6 +3974,9 @@
         "Processador",
         "Gráficos",
         "Bateria"
+      ],
+      "gallery": [
+        "assets/products/laptop.svg"
       ]
     },
     {
@@ -3884,7 +4034,7 @@
       ],
       "brand": "ASUS",
       "slug": "51-asus-tuf-gaming-a15-rtx-4060-16-512-gb",
-      "image": null,
+      "image": "assets/products/laptop.svg",
       "imageAlt": "ASUS TUF Gaming A15 RTX 4060 16/512 GB",
       "active": true,
       "specifications": {
@@ -3902,6 +4052,9 @@
         "Processador",
         "Gráficos",
         "Bateria"
+      ],
+      "gallery": [
+        "assets/products/laptop.svg"
       ]
     },
     {
@@ -3959,7 +4112,7 @@
       ],
       "brand": "Acer",
       "slug": "52-acer-aspire-5-i5-16-512-gb",
-      "image": null,
+      "image": "assets/products/laptop.svg",
       "imageAlt": "Acer Aspire 5 i5 16/512 GB",
       "active": true,
       "specifications": {
@@ -3977,6 +4130,9 @@
         "Processador",
         "Gráficos",
         "Bateria"
+      ],
+      "gallery": [
+        "assets/products/laptop.svg"
       ]
     },
     {
@@ -4034,7 +4190,7 @@
       ],
       "brand": "Acer",
       "slug": "53-acer-nitro-v-15-rtx-4050-16-512-gb",
-      "image": null,
+      "image": "assets/products/laptop.svg",
       "imageAlt": "Acer Nitro V 15 RTX 4050 16/512 GB",
       "active": true,
       "specifications": {
@@ -4052,6 +4208,9 @@
         "Processador",
         "Gráficos",
         "Bateria"
+      ],
+      "gallery": [
+        "assets/products/laptop.svg"
       ]
     },
     {
@@ -4109,7 +4268,7 @@
       ],
       "brand": "HP",
       "slug": "54-hp-15-ryzen-5-16-512-gb",
-      "image": null,
+      "image": "assets/products/laptop.svg",
       "imageAlt": "HP 15 Ryzen 5 16/512 GB",
       "active": true,
       "specifications": {
@@ -4127,6 +4286,9 @@
         "Processador",
         "Gráficos",
         "Bateria"
+      ],
+      "gallery": [
+        "assets/products/laptop.svg"
       ]
     },
     {
@@ -4184,7 +4346,7 @@
       ],
       "brand": "HP",
       "slug": "55-hp-victus-15-rtx-4060-16-512-gb",
-      "image": null,
+      "image": "assets/products/laptop.svg",
       "imageAlt": "HP Victus 15 RTX 4060 16/512 GB",
       "active": true,
       "specifications": {
@@ -4202,6 +4364,9 @@
         "Processador",
         "Gráficos",
         "Bateria"
+      ],
+      "gallery": [
+        "assets/products/laptop.svg"
       ]
     },
     {
@@ -4259,7 +4424,7 @@
       ],
       "brand": "Apple",
       "slug": "56-apple-macbook-air-13-m3-16-256-gb",
-      "image": null,
+      "image": "assets/products/laptop.svg",
       "imageAlt": "Apple MacBook Air 13 M3 16/256 GB",
       "active": true,
       "specifications": {
@@ -4277,6 +4442,9 @@
         "Processador",
         "Gráficos",
         "Bateria"
+      ],
+      "gallery": [
+        "assets/products/laptop.svg"
       ]
     },
     {
@@ -4334,7 +4502,7 @@
       ],
       "brand": "Apple",
       "slug": "57-apple-macbook-air-15-m3-16-512-gb",
-      "image": null,
+      "image": "assets/products/laptop.svg",
       "imageAlt": "Apple MacBook Air 15 M3 16/512 GB",
       "active": true,
       "specifications": {
@@ -4352,6 +4520,9 @@
         "Processador",
         "Gráficos",
         "Bateria"
+      ],
+      "gallery": [
+        "assets/products/laptop.svg"
       ]
     },
     {
@@ -4409,7 +4580,7 @@
       ],
       "brand": "Apple",
       "slug": "58-apple-macbook-pro-14-m4-16-512-gb",
-      "image": null,
+      "image": "assets/products/laptop.svg",
       "imageAlt": "Apple MacBook Pro 14 M4 16/512 GB",
       "active": true,
       "specifications": {
@@ -4427,6 +4598,9 @@
         "Processador",
         "Gráficos",
         "Bateria"
+      ],
+      "gallery": [
+        "assets/products/laptop.svg"
       ]
     },
     {
@@ -4484,7 +4658,7 @@
       ],
       "brand": "Samsung",
       "slug": "59-samsung-55-qled-4k-q70",
-      "image": null,
+      "image": "assets/products/tv.svg",
       "imageAlt": "Samsung 55″ QLED 4K Q70",
       "active": true,
       "specifications": {
@@ -4502,6 +4676,9 @@
         "Sistema",
         "HDMI",
         "Smart TV"
+      ],
+      "gallery": [
+        "assets/products/tv.svg"
       ]
     },
     {
@@ -4559,7 +4736,7 @@
       ],
       "brand": "Samsung",
       "slug": "60-samsung-65-qled-4k-q80",
-      "image": null,
+      "image": "assets/products/tv.svg",
       "imageAlt": "Samsung 65″ QLED 4K Q80",
       "active": true,
       "specifications": {
@@ -4577,6 +4754,9 @@
         "Sistema",
         "HDMI",
         "Smart TV"
+      ],
+      "gallery": [
+        "assets/products/tv.svg"
       ]
     },
     {
@@ -4634,7 +4814,7 @@
       ],
       "brand": "LG",
       "slug": "61-lg-55-oled-c4-4k",
-      "image": null,
+      "image": "assets/products/tv.svg",
       "imageAlt": "LG 55″ OLED C4 4K",
       "active": true,
       "specifications": {
@@ -4652,6 +4832,9 @@
         "Sistema",
         "HDMI",
         "Smart TV"
+      ],
+      "gallery": [
+        "assets/products/tv.svg"
       ]
     },
     {
@@ -4709,7 +4892,7 @@
       ],
       "brand": "LG",
       "slug": "62-lg-65-oled-c4-4k",
-      "image": null,
+      "image": "assets/products/tv.svg",
       "imageAlt": "LG 65″ OLED C4 4K",
       "active": true,
       "specifications": {
@@ -4727,6 +4910,9 @@
         "Sistema",
         "HDMI",
         "Smart TV"
+      ],
+      "gallery": [
+        "assets/products/tv.svg"
       ]
     },
     {
@@ -4784,7 +4970,7 @@
       ],
       "brand": "TCL",
       "slug": "63-tcl-55-mini-led-c6k",
-      "image": null,
+      "image": "assets/products/tv.svg",
       "imageAlt": "TCL 55″ Mini LED C6K",
       "active": true,
       "specifications": {
@@ -4802,6 +4988,9 @@
         "Sistema",
         "HDMI",
         "Smart TV"
+      ],
+      "gallery": [
+        "assets/products/tv.svg"
       ]
     },
     {
@@ -4859,7 +5048,7 @@
       ],
       "brand": "Hisense",
       "slug": "64-hisense-55-mini-led-u7n",
-      "image": null,
+      "image": "assets/products/tv.svg",
       "imageAlt": "Hisense 55″ Mini LED U7N",
       "active": true,
       "specifications": {
@@ -4877,6 +5066,9 @@
         "Sistema",
         "HDMI",
         "Smart TV"
+      ],
+      "gallery": [
+        "assets/products/tv.svg"
       ]
     },
     {
@@ -4934,7 +5126,7 @@
       ],
       "brand": "PlayStation",
       "slug": "65-playstation-5-slim-digital",
-      "image": null,
+      "image": "assets/products/gaming.svg",
       "imageAlt": "PlayStation 5 Slim Digital",
       "active": true,
       "specifications": {
@@ -4951,6 +5143,9 @@
         "Taxa de actualização",
         "Gráficos",
         "Conectividade"
+      ],
+      "gallery": [
+        "assets/products/gaming.svg"
       ]
     },
     {
@@ -5008,7 +5203,7 @@
       ],
       "brand": "PlayStation",
       "slug": "66-playstation-5-pro-2-tb",
-      "image": null,
+      "image": "assets/products/gaming.svg",
       "imageAlt": "PlayStation 5 Pro 2 TB",
       "active": true,
       "specifications": {
@@ -5025,6 +5220,9 @@
         "Taxa de actualização",
         "Gráficos",
         "Conectividade"
+      ],
+      "gallery": [
+        "assets/products/gaming.svg"
       ]
     },
     {
@@ -5082,7 +5280,7 @@
       ],
       "brand": "Microsoft",
       "slug": "67-xbox-series-x-1-tb",
-      "image": null,
+      "image": "assets/products/gaming.svg",
       "imageAlt": "Xbox Series X 1 TB",
       "active": true,
       "specifications": {
@@ -5099,6 +5297,9 @@
         "Taxa de actualização",
         "Gráficos",
         "Conectividade"
+      ],
+      "gallery": [
+        "assets/products/gaming.svg"
       ]
     },
     {
@@ -5156,7 +5357,7 @@
       ],
       "brand": "Nintendo",
       "slug": "68-nintendo-switch-oled-64-gb",
-      "image": "assets/side/nintendo-switch-oled.svg",
+      "image": "assets/products/gaming.svg",
       "imageAlt": "Nintendo Switch OLED 64 GB",
       "active": true,
       "specifications": {
@@ -5175,7 +5376,7 @@
         "Conectividade"
       ],
       "gallery": [
-        "assets/side/nintendo-switch-oled.svg"
+        "assets/products/gaming.svg"
       ]
     },
     {
@@ -5233,7 +5434,7 @@
       ],
       "brand": "Xiaomi",
       "slug": "69-xiaomi-watch-s4",
-      "image": null,
+      "image": "assets/products/watch.svg",
       "imageAlt": "Xiaomi Watch S4",
       "active": true,
       "specifications": {
@@ -5251,6 +5452,9 @@
         "GPS",
         "Sistema",
         "Bateria"
+      ],
+      "gallery": [
+        "assets/products/watch.svg"
       ]
     },
     {
@@ -5308,7 +5512,7 @@
       ],
       "brand": "Samsung",
       "slug": "70-samsung-galaxy-watch7-44-mm",
-      "image": null,
+      "image": "assets/products/watch.svg",
       "imageAlt": "Samsung Galaxy Watch7 44 mm",
       "active": true,
       "specifications": {
@@ -5326,6 +5530,9 @@
         "GPS",
         "Sistema",
         "Bateria"
+      ],
+      "gallery": [
+        "assets/products/watch.svg"
       ]
     },
     {
@@ -5383,7 +5590,7 @@
       ],
       "brand": "Samsung",
       "slug": "71-samsung-galaxy-watch-ultra",
-      "image": null,
+      "image": "assets/products/watch.svg",
       "imageAlt": "Samsung Galaxy Watch Ultra",
       "active": true,
       "specifications": {
@@ -5401,6 +5608,9 @@
         "GPS",
         "Sistema",
         "Bateria"
+      ],
+      "gallery": [
+        "assets/products/watch.svg"
       ]
     },
     {
@@ -5458,7 +5668,7 @@
       ],
       "brand": "Apple",
       "slug": "72-apple-watch-se-2-gps-44-mm",
-      "image": null,
+      "image": "assets/products/watch.svg",
       "imageAlt": "Apple Watch SE 2 GPS 44 mm",
       "active": true,
       "specifications": {
@@ -5476,6 +5686,9 @@
         "GPS",
         "Sistema",
         "Bateria"
+      ],
+      "gallery": [
+        "assets/products/watch.svg"
       ]
     },
     {
@@ -5533,7 +5746,7 @@
       ],
       "brand": "Apple",
       "slug": "73-apple-watch-series-10-46-mm",
-      "image": null,
+      "image": "assets/products/watch.svg",
       "imageAlt": "Apple Watch Series 10 46 mm",
       "active": true,
       "specifications": {
@@ -5551,6 +5764,9 @@
         "GPS",
         "Sistema",
         "Bateria"
+      ],
+      "gallery": [
+        "assets/products/watch.svg"
       ]
     },
     {
@@ -5608,7 +5824,7 @@
       ],
       "brand": "Sony",
       "slug": "74-sony-wh-1000xm6",
-      "image": null,
+      "image": "assets/products/audio.svg",
       "imageAlt": "Sony WH-1000XM6",
       "active": true,
       "specifications": {
@@ -5626,6 +5842,9 @@
         "Microfones",
         "Ligação",
         "Multiponto"
+      ],
+      "gallery": [
+        "assets/products/audio.svg"
       ]
     },
     {
@@ -5683,7 +5902,7 @@
       ],
       "brand": "Apple",
       "slug": "75-apple-airpods-pro-2-usb-c",
-      "image": null,
+      "image": "assets/products/audio.svg",
       "imageAlt": "Apple AirPods Pro 2 USB-C",
       "active": true,
       "specifications": {
@@ -5701,6 +5920,9 @@
         "Microfones",
         "Ligação",
         "Multiponto"
+      ],
+      "gallery": [
+        "assets/products/audio.svg"
       ]
     },
     {
@@ -5758,7 +5980,7 @@
       ],
       "brand": "Samsung",
       "slug": "76-samsung-galaxy-buds3-pro",
-      "image": null,
+      "image": "assets/products/audio.svg",
       "imageAlt": "Samsung Galaxy Buds3 Pro",
       "active": true,
       "specifications": {
@@ -5776,6 +5998,9 @@
         "Microfones",
         "Ligação",
         "Multiponto"
+      ],
+      "gallery": [
+        "assets/products/audio.svg"
       ]
     },
     {
@@ -5813,6 +6038,11 @@
           "sourceType": "demo",
           "source": "Dados de demonstração"
         }
+      ],
+      "image": "assets/products/components.svg",
+      "imageAlt": "AMD Ryzen 7 7800X3D",
+      "gallery": [
+        "assets/products/components.svg"
       ]
     },
     {
@@ -5850,6 +6080,11 @@
           "sourceType": "demo",
           "source": "Dados de demonstração"
         }
+      ],
+      "image": "assets/products/components.svg",
+      "imageAlt": "NVIDIA GeForce RTX 5070 12 GB",
+      "gallery": [
+        "assets/products/components.svg"
       ]
     },
     {
@@ -5887,6 +6122,11 @@
           "sourceType": "demo",
           "source": "Dados de demonstração"
         }
+      ],
+      "image": "assets/products/components.svg",
+      "imageAlt": "Kingston Fury Beast 32 GB DDR5",
+      "gallery": [
+        "assets/products/components.svg"
       ]
     },
     {
@@ -5924,6 +6164,11 @@
           "sourceType": "demo",
           "source": "Dados de demonstração"
         }
+      ],
+      "image": "assets/products/components.svg",
+      "imageAlt": "Samsung 990 EVO Plus 2 TB",
+      "gallery": [
+        "assets/products/components.svg"
       ]
     },
     {
@@ -5961,6 +6206,11 @@
           "sourceType": "demo",
           "source": "Dados de demonstração"
         }
+      ],
+      "image": "assets/products/phone-samsung.svg",
+      "imageAlt": "Sony Alpha ZV-E10 II",
+      "gallery": [
+        "assets/products/phone-samsung.svg"
       ]
     },
     {
@@ -5998,6 +6248,11 @@
           "sourceType": "demo",
           "source": "Dados de demonstração"
         }
+      ],
+      "image": "assets/products/tv.svg",
+      "imageAlt": "LG UltraGear 27GS60F-B 27\"",
+      "gallery": [
+        "assets/products/tv.svg"
       ]
     },
     {
@@ -6035,6 +6290,11 @@
           "sourceType": "demo",
           "source": "Dados de demonstração"
         }
+      ],
+      "image": "assets/products/audio.svg",
+      "imageAlt": "Apple AirTag 4 Pack",
+      "gallery": [
+        "assets/products/audio.svg"
       ]
     },
     {
@@ -6072,6 +6332,11 @@
           "sourceType": "demo",
           "source": "Dados de demonstração"
         }
+      ],
+      "image": "assets/products/gaming.svg",
+      "imageAlt": "ASUS ROG Ally X",
+      "gallery": [
+        "assets/products/gaming.svg"
       ]
     },
     {
@@ -6109,6 +6374,11 @@
           "sourceType": "demo",
           "source": "Dados de demonstração"
         }
+      ],
+      "image": "assets/products/tv.svg",
+      "imageAlt": "LG WashTower 12/10 kg",
+      "gallery": [
+        "assets/products/tv.svg"
       ]
     }
   ]
