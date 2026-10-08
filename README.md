@@ -79,6 +79,3 @@ Depois abre `http://127.0.0.1:8787/`.
 - Endpoint de versão final.
 - Documento de release e inventário.
 - Modo futurista preservado.
-
-## GitHub
-Esta é a preparação da release v156 para versionamento no GitHub. Credenciais e ficheiros de ambiente locais não devem ser publicados; usa `backend/.env.example` como referência.

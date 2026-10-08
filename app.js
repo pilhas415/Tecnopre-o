@@ -44,13 +44,19 @@ function validateOffer(o){const n=offerData(o);return n.price>0&&n.store&&n.sour
 function storeLogo(name){const n=String(name||'').toLowerCase();let cls='market',label='MK';if(n.includes('worten')){cls='worten';label='W'}else if(n.includes('fnac')){cls='fnac';label='FNAC'}else if(n.includes('pcdiga')){cls='pcdiga';label='P'}else if(n.includes('globaldata')){cls='globaldata';label='GD'}else if(n.includes('auchan')){cls='auchan';label='A'}else if(n.includes('amazon')){cls='amazon';label='a'}return `<span class="store-logo ${cls}" title="${name}">${label}</span>`}
 
 const mediaLibrary={
- 'Telemóveis':['https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=85','https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=900&q=85'],
- 'Portáteis':['https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=900&q=85','https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=900&q=85'],
- 'Smartwatches':['https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=85','https://images.unsplash.com/photo-1546868871-7041f2a55e7e?auto=format&fit=crop&w=900&q=85'],
- 'Áudio':['https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=85','https://images.unsplash.com/photo-1484704849700-f032a568e944?auto=format&fit=crop&w=900&q=85'],
- 'Consolas':['https://images.unsplash.com/photo-1606813907291-d86efa9b94db?auto=format&fit=crop&w=900&q=85','https://images.unsplash.com/photo-1607853202273-797f1c22a38e?auto=format&fit=crop&w=900&q=85'],
- 'Televisões':['https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?auto=format&fit=crop&w=900&q=85','https://images.unsplash.com/photo-1461151304267-38535e780c79?auto=format&fit=crop&w=900&q=85'],
- 'Tablets':['https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?auto=format&fit=crop&w=900&q=85','https://images.unsplash.com/photo-1561154464-82e9adf32764?auto=format&fit=crop&w=900&q=85']
+ 'Telemóveis':['assets/side/phone.svg'],
+ 'Portáteis':['assets/side/laptop.svg'],
+ 'Smartwatches':['assets/side/phone.svg'],
+ 'Áudio':['assets/side/headphones.svg'],
+ 'Consolas':['assets/side/gaming.svg'],
+ 'Televisões':['assets/side/tv.svg'],
+ 'Tablets':['assets/side/phone.svg'],
+ 'Componentes':['assets/side/gpu.svg'],
+ 'Monitores':['assets/side/tv.svg'],
+ 'Câmaras':['assets/side/phone.svg'],
+ 'Acessórios':['assets/side/headphones.svg'],
+ 'Gaming':['assets/side/gaming.svg'],
+ 'Eletrodomésticos':['assets/side/tv.svg']
 };
 function productMedia(p){return (p.gallery&&p.gallery.length?p.gallery:mediaLibrary[p.category]||[]).slice(0,4)}
 function mediaImg(url,cls=''){return `<img class="product-real-image ${cls}" src="${url}" alt="Imagem de ${String(window.currentProductName||'produto').replace(/"/g,'&quot;')}" loading="lazy" onerror="this.classList.add('media-failed');this.style.display='none';this.nextElementSibling?.classList.remove('media-fallback-hidden')"><span class="media-fallback media-fallback-hidden">${window.currentProductIcon||'📦'}</span>`}
@@ -666,7 +672,9 @@ function specLabelsForCategory(category){
   'Câmaras':['Sensor','Vídeo','Fotografia','Estabilização','Conectividade','Formato'],
   'Monitores':['Painel','Resolução','Taxa de actualização','Tempo de resposta','Conectividade','HDR'],
   'Componentes':['Tipo','Capacidade','Interface','Velocidade','Formato','Compatibilidade'],
-  'Acessórios':['Tipo','Compatibilidade','Ligação','Autonomia','Material','Funções']
+  'Acessórios':['Tipo','Compatibilidade','Ligação','Autonomia','Material','Funções'],
+  'Gaming':['Ecrã','RAM','Armazenamento','Processador','Conectividade','Bateria'],
+  'Eletrodomésticos':['Capacidade','Eficiência','Conectividade','Programas','Tecnologia','Dimensões']
  };
  return maps[category]||['Característica 1','Característica 2','Característica 3','Característica 4','Característica 5','Característica 6'];
 }
@@ -807,7 +815,8 @@ function markDemoOffers(){
 }
 async function loadCatalogDatabase(){
  try{
-  const response=await fetch('data/products.json',{cache:'no-store'});
+  let response=await fetch('products.json',{cache:'no-store'});
+  if(!response.ok) response=await fetch('data/products.json',{cache:'no-store'});
   if(!response.ok)throw new Error('HTTP '+response.status);
   const catalog=await response.json();
   const rows=Array.isArray(catalog)?catalog:catalog.products;

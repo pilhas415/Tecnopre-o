@@ -1,15 +1,15 @@
 {
   "schemaVersion": "1.1",
-  "catalogVersion": "1.1",
-  "generatedAt": "2026-10-07",
+  "catalogVersion": "156.1",
+  "generatedAt": "2026-10-08T15:05:00Z",
   "currency": "EUR",
   "locale": "pt-PT",
   "description": "Catálogo TecnoPreço com especificações adaptadas à categoria.",
   "categories": [
     {
-      "id": "consolas",
-      "name": "Consolas",
-      "productCount": 5
+      "id": "telemoveis",
+      "name": "Telemóveis",
+      "productCount": 34
     },
     {
       "id": "portateis",
@@ -17,19 +17,14 @@
       "productCount": 13
     },
     {
-      "id": "smartwatches",
-      "name": "Smartwatches",
-      "productCount": 6
-    },
-    {
       "id": "tablets",
       "name": "Tablets",
       "productCount": 8
     },
     {
-      "id": "telemoveis",
-      "name": "Telemóveis",
-      "productCount": 34
+      "id": "smartwatches",
+      "name": "Smartwatches",
+      "productCount": 6
     },
     {
       "id": "televisoes",
@@ -37,16 +32,56 @@
       "productCount": 6
     },
     {
+      "id": "consolas",
+      "name": "Consolas",
+      "productCount": 5
+    },
+    {
       "id": "audio",
       "name": "Áudio",
       "productCount": 4
+    },
+    {
+      "id": "componentes",
+      "name": "Componentes",
+      "productCount": 4
+    },
+    {
+      "id": "monitores",
+      "name": "Monitores",
+      "productCount": 1
+    },
+    {
+      "id": "cameras",
+      "name": "Câmaras",
+      "productCount": 1
+    },
+    {
+      "id": "acessorios",
+      "name": "Acessórios",
+      "productCount": 1
+    },
+    {
+      "id": "gaming",
+      "name": "Gaming",
+      "productCount": 1
+    },
+    {
+      "id": "eletrodomesticos",
+      "name": "Eletrodomésticos",
+      "productCount": 1
     }
   ],
   "brands": [
     {
+      "id": "amd",
+      "name": "AMD",
+      "productCount": 1
+    },
+    {
       "id": "asus",
       "name": "ASUS",
-      "productCount": 2
+      "productCount": 3
     },
     {
       "id": "acer",
@@ -56,7 +91,7 @@
     {
       "id": "apple",
       "name": "Apple",
-      "productCount": 16
+      "productCount": 17
     },
     {
       "id": "hp",
@@ -69,9 +104,14 @@
       "productCount": 1
     },
     {
+      "id": "kingston",
+      "name": "Kingston",
+      "productCount": 1
+    },
+    {
       "id": "lg",
       "name": "LG",
-      "productCount": 2
+      "productCount": 4
     },
     {
       "id": "lenovo",
@@ -81,6 +121,11 @@
     {
       "id": "microsoft",
       "name": "Microsoft",
+      "productCount": 1
+    },
+    {
+      "id": "nvidia",
+      "name": "NVIDIA",
       "productCount": 1
     },
     {
@@ -96,12 +141,12 @@
     {
       "id": "samsung",
       "name": "Samsung",
-      "productCount": 20
+      "productCount": 21
     },
     {
       "id": "sony",
       "name": "Sony",
-      "productCount": 2
+      "productCount": 3
     },
     {
       "id": "tcl",
@@ -5111,7 +5156,7 @@
       ],
       "brand": "Nintendo",
       "slug": "68-nintendo-switch-oled-64-gb",
-      "image": null,
+      "image": "assets/side/nintendo-switch-oled.svg",
       "imageAlt": "Nintendo Switch OLED 64 GB",
       "active": true,
       "specifications": {
@@ -5128,6 +5173,9 @@
         "Taxa de actualização",
         "Gráficos",
         "Conectividade"
+      ],
+      "gallery": [
+        "assets/side/nintendo-switch-oled.svg"
       ]
     },
     {
@@ -5728,6 +5776,339 @@
         "Microfones",
         "Ligação",
         "Multiponto"
+      ]
+    },
+    {
+      "id": 77,
+      "name": "AMD Ryzen 7 7800X3D",
+      "category": "Componentes",
+      "icon": "🧩",
+      "brand": "AMD",
+      "spec": [
+        "8 núcleos / 16 threads",
+        "AM5",
+        "Até 5,0 GHz",
+        "96 MB cache",
+        "120 W",
+        "DDR5"
+      ],
+      "rating": "4,8",
+      "popularity": 96,
+      "offers": [
+        {
+          "store": "PCDIGA",
+          "price": 389.99,
+          "stock": true,
+          "delivery": "1–2 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração"
+        },
+        {
+          "store": "Globaldata",
+          "price": 399.9,
+          "stock": true,
+          "delivery": "2–4 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração"
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "name": "NVIDIA GeForce RTX 5070 12 GB",
+      "category": "Componentes",
+      "icon": "🧩",
+      "brand": "NVIDIA",
+      "spec": [
+        "12 GB GDDR7",
+        "PCIe 5.0",
+        "DLSS 4",
+        "Ray Tracing",
+        "3 DisplayPort + HDMI",
+        "750 W recomendados"
+      ],
+      "rating": "4,7",
+      "popularity": 92,
+      "offers": [
+        {
+          "store": "PCDIGA",
+          "price": 649.99,
+          "stock": true,
+          "delivery": "1–2 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração"
+        },
+        {
+          "store": "Globaldata",
+          "price": 669.9,
+          "stock": true,
+          "delivery": "2–4 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração"
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "name": "Kingston Fury Beast 32 GB DDR5",
+      "category": "Componentes",
+      "icon": "🧩",
+      "brand": "Kingston",
+      "spec": [
+        "32 GB",
+        "DDR5-6000",
+        "2 x 16 GB",
+        "CL36",
+        "DIMM",
+        "AMD EXPO / Intel XMP"
+      ],
+      "rating": "4,7",
+      "popularity": 88,
+      "offers": [
+        {
+          "store": "PCDIGA",
+          "price": 94.99,
+          "stock": true,
+          "delivery": "1–2 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração"
+        },
+        {
+          "store": "Globaldata",
+          "price": 99.9,
+          "stock": true,
+          "delivery": "2–4 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração"
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "name": "Samsung 990 EVO Plus 2 TB",
+      "category": "Componentes",
+      "icon": "🧩",
+      "brand": "Samsung",
+      "spec": [
+        "2 TB",
+        "NVMe",
+        "PCIe 4.0 x4 / 5.0 x2",
+        "Até 7 250 MB/s",
+        "M.2 2280",
+        "TLC"
+      ],
+      "rating": "4,8",
+      "popularity": 94,
+      "offers": [
+        {
+          "store": "Worten",
+          "price": 159.99,
+          "stock": true,
+          "delivery": "1–2 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração"
+        },
+        {
+          "store": "PCDIGA",
+          "price": 164.99,
+          "stock": true,
+          "delivery": "1–2 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração"
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "name": "Sony Alpha ZV-E10 II",
+      "category": "Câmaras",
+      "icon": "📷",
+      "brand": "Sony",
+      "spec": [
+        "APS-C 26 MP",
+        "4K 60p",
+        "RAW",
+        "Estabilização electrónica",
+        "Wi‑Fi / Bluetooth",
+        "E-mount"
+      ],
+      "rating": "4,7",
+      "popularity": 86,
+      "offers": [
+        {
+          "store": "FNAC",
+          "price": 999.99,
+          "stock": true,
+          "delivery": "2–4 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração"
+        },
+        {
+          "store": "Worten",
+          "price": 1029.99,
+          "stock": true,
+          "delivery": "2–3 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração"
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "name": "LG UltraGear 27GS60F-B 27\"",
+      "category": "Monitores",
+      "icon": "🖥️",
+      "brand": "LG",
+      "spec": [
+        "27\" IPS",
+        "Full HD",
+        "180 Hz",
+        "1 ms",
+        "DisplayPort + HDMI",
+        "HDR10"
+      ],
+      "rating": "4,6",
+      "popularity": 90,
+      "offers": [
+        {
+          "store": "PCDIGA",
+          "price": 169.99,
+          "stock": true,
+          "delivery": "1–2 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração"
+        },
+        {
+          "store": "Globaldata",
+          "price": 179.9,
+          "stock": true,
+          "delivery": "2–4 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração"
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "name": "Apple AirTag 4 Pack",
+      "category": "Acessórios",
+      "icon": "🎒",
+      "brand": "Apple",
+      "spec": [
+        "Localização precisa",
+        "Bluetooth",
+        "UWB",
+        "CR2032",
+        "Resistência IP67",
+        "Rede Encontrar"
+      ],
+      "rating": "4,6",
+      "popularity": 84,
+      "offers": [
+        {
+          "store": "Worten",
+          "price": 109.99,
+          "stock": true,
+          "delivery": "1–2 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração"
+        },
+        {
+          "store": "FNAC",
+          "price": 114.99,
+          "stock": true,
+          "delivery": "2–3 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração"
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "name": "ASUS ROG Ally X",
+      "category": "Gaming",
+      "icon": "🎮",
+      "brand": "ASUS",
+      "spec": [
+        "7\" Full HD 120 Hz",
+        "24 GB RAM",
+        "1 TB SSD",
+        "Ryzen Z1 Extreme",
+        "Wi‑Fi 6E",
+        "80 Wh"
+      ],
+      "rating": "4,8",
+      "popularity": 93,
+      "offers": [
+        {
+          "store": "Worten",
+          "price": 799.99,
+          "stock": true,
+          "delivery": "1–2 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração"
+        },
+        {
+          "store": "FNAC",
+          "price": 819.99,
+          "stock": true,
+          "delivery": "2–4 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração"
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "name": "LG WashTower 12/10 kg",
+      "category": "Eletrodomésticos",
+      "icon": "🏠",
+      "brand": "LG",
+      "spec": [
+        "12 kg lavagem",
+        "10 kg secagem",
+        "Classe A",
+        "Wi‑Fi",
+        "Vapor",
+        "AI DD"
+      ],
+      "rating": "4,5",
+      "popularity": 72,
+      "offers": [
+        {
+          "store": "Worten",
+          "price": 1699.99,
+          "stock": true,
+          "delivery": "3–5 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração"
+        },
+        {
+          "store": "FNAC",
+          "price": 1749.99,
+          "stock": true,
+          "delivery": "3–6 dias",
+          "type": "retailer",
+          "sourceType": "demo",
+          "source": "Dados de demonstração"
+        }
       ]
     }
   ]
